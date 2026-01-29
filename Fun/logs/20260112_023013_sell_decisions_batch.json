@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-12T02:30:13.398756+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "AERO-USDC",
+      "base_size": "21.7",
+      "reason": "P&L only +1.3% (<5%) so still in normal swing regime; price (0.5666) is above ATR stop (0.5498) and above entry (0.5591); 1H STRONG_BUY, 4H BUY, RSI 65.5 fits the intended Tier 2 momentum pattern to repeat WON logic, with no PANIC EXIT or profit-target rules triggered yet."
+    }
+  ]
+}

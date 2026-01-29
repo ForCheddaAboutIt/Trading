@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-15T07:30:17.495671+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "SELL",
+      "product_id": "ROSE-USDC",
+      "base_size": "1816.5",
+      "reason": "Profit target exceeded +9.1% (>5%). Technicals STRONG_BUY on 1H/4H with RSI 59.6, but external predictions forecast -17.87% drop to $0.01165 by Feb[1], RSI indicators mixed (60.37 SELL[1], StochRSI 96.44 SELL[1]). Not 90% confident parabolic continuation next hour given overbought stoch signals and bearish forecasts; current $0.01438 > ATR_STOP $0.0139."
+    }
+  ]
+}

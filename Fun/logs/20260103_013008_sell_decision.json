@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-03T01:30:08.739685+00:00",
+  "type": "sell_decision",
+  "data": {
+    "action": "HOLD",
+    "product_id": "RENDER-USDC",
+    "base_size": "10.77",
+    "reason": "P&L +0.5% (no profit >+8% or RSI>75 trigger), above ATR_STOP $1.4935 (current $1.532), no panic/hard stop hit; technicals show BUY signal on 4H despite mixed search sentiments"
+  }
+}

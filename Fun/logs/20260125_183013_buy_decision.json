@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-25T18:30:13.995063+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "BTC dropping -2% (hard drop, DO NOT BUY rule); AUCTION-USDC +29.6% exceeds 15% gain (AVOID chasing), RSI 57.0 with VW-RSI 62.4 leaning hot/overbought per standard RSI (avoid >75 or extreme gains); no WON strategies to repeat, recent TIER 1 logic led to multiple LOSSES; no relative strength exception as baseline violated."
+  }
+}

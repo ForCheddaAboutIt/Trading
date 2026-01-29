@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-02T21:00:12.057054+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "MON-USDC",
+    "quote_size": "12.6445",
+    "reason": "BTC bullish market. MON-USDC meets Strong Buy 4H/Buy 1H (both BUY), RSI 58.8 (45-65 range, lowest among candidates)."
+  }
+}

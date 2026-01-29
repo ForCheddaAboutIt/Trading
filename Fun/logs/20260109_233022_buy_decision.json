@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-09T23:30:22.154951+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "product_id": null,
+    "quote_size": "0.00",
+    "reason": "No candidate cleanly matches the proven WON setups without triggering AVOID rules: GMT gain +16.6% (>15% chase, disallowed); POL gain +13.1% with RSI 67.1 is extended and worse R/R than prior POL win; STX RSI 62.8 & gain 5.5% fits TIER 2 volatility but VW-RSI 72.1 is near overbought and recent TIER 1/2 entries with similar froth (SNX, FET) lost; RENDER MACD line (0.06) is below signal (0.08), failing the bullish MACD confirmation rule; ATOM VW-RSI 80.4 shows overextension. With BTC neutral and no high-conviction Tier 1 or clean Tier 2 that mirrors past winners without repeating recent losing patterns, optimal decision is to stay in cash and wait for a higher-quality setup."
+  }
+}

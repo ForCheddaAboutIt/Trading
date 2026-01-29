@@ -1,0 +1,8 @@
+{
+  "time": "2025-12-26T02:34:46.320859+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "Insufficient real-time market data in search results to identify a high-conviction momentum play. Available search results show weakening momentum across Bitcoin and equity markets, with Bitcoin facing headwinds in December due to risk-off conditions[5][6]. While BTC at $89,008 approaches the $90,000 psychological level noted in momentum trading patterns[2], no current technical signals, volume confirmation, or specific catalyst data for listed altcoins are available. Current account size ($19.26 USDC, max $9.63 position) allows meaningful deployment, but entry without recent breakout confirmation, volume spike data, and near-term catalyst identification risks poor risk-reward setup. Wait for clear breakout signals with volume confirmation on next bullish momentum catalyst."
+  }
+}

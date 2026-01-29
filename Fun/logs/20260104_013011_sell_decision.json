@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-04T01:30:11.570343+00:00",
+  "type": "sell_decision",
+  "data": {
+    "action": "HOLD",
+    "product_id": "STX-USDC",
+    "base_size": "36.96",
+    "reason": "P&L +2.66% below 5% target. RSI 69.6 approaching overbought (70+) but technicals show STRONG_BUY/4H:STRONG_BUY with bullish momentum. Price $0.3087 > ATR Stop $0.3028. Matches WON strategy pattern (low VW-RSI entry, high volume, 1H confirmation). Analysts forecast 2.63-14.56% upside by Feb 3. Hold while price > ATR and trend intact; monitor RSI for overbought divergence."
+  }
+}

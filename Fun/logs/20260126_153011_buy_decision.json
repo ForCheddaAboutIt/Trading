@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-26T15:30:11.508174+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "product_id": null,
+    "quote_size": "0.00",
+    "reason": "No candidates meet criteria: All have high gains (>5%) with RSI mostly >60 or overbought (ALGO RSI 75.8); MACD not clearly bullish (flat or bearish); recent TIER 1 losses on similar RSI 50-60 +3-5% gains; BTC neutral, no relative strength exception; avoid chasing per rules and lost history."
+  }
+}

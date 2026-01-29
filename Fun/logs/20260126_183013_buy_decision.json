@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-26T18:30:13.231997+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "No candidates meet strict criteria: All have 24h gains >5% (ROSE +10%, ALGO +9.1%, etc.), placing them in TIER 2 or worse; multiple recent LOST trades used similar oversized TIER 1 logic on +3-8% gains with RSI 50-60 (e.g., ROSE RSI 54 like lost TRUST/AGLD); MACD not clearly bullish (many 0.00/0.00 or negative); BTC bullish but avoid repeating failed high-gain strategies per lessons."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-25T12:30:13.612864+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "SUPER-USDC",
+    "quote_size": "18.10",
+    "reason": "TIER 1 Setup: RSI 54.9 (ideal 50-60 range), +5.2% 24h gain (within 3-5% target), 1H STRONG BUY signal, MACD neutral but not conflicting. Matches WON pattern: moderate RSI + moderate volatility + strong technicals. Capital allocation 80% (18.10/22.62) per TIER 1 protocol. Avoids LOST trap: rejecting AVNT/ROSE/ZORA due to RSI >60 and/or gains >15% (overbought/chasing risk evident in recent losses)."
+  }
+}

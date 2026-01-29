@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-02T21:18:23.934894+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "MON-USDC",
+    "quote_size": "12.64",
+    "reason": "BTC neutral; MON 1H:BUY, RSI:56.9 (45-65 range); highest % gain 11.5% among ideal RSI candidates; no past trades"
+  }
+}

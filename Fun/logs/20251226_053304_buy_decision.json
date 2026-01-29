@@ -1,0 +1,10 @@
+{
+  "time": "2025-12-26T05:33:04.257699+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "YB-USDC",
+    "quote_size": "4.88",
+    "reason": "YB-USDC strongest multi-timeframe momentum in 8-15% daily range: +14.8% 24h, +14.8% 1H (>3%), +11.8% 4H (>2%)"
+  }
+}

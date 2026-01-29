@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-08T14:30:15.071968+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "POL-USDC",
+      "base_size": "199.61",
+      "reason": "PnL below 5% target (+0.24%), price above ATR stop (0.1287 > 0.1252), 1H STRONG_BUY / 4H BUY with RSI in 50-60 band matching WON Tier 1 setup; BTC -1.9% but not triggering panic exit and trade still aligned with successful AAVE-style logic while avoiding recent LOST patterns."
+    }
+  ]
+}

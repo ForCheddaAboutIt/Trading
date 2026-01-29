@@ -1,0 +1,8 @@
+{
+  "time": "2025-12-26T04:59:53.222189+00:00",
+  "type": "sell_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "BTC P&L +1.9% <8% profit target and >-5% stop loss; ALEPH P&L +0.7% <8% profit target and >-5% stop loss. Both positions show slight positive momentum with BTC as market leader (+1.37% 24h); no negative news or momentum shift indicated. Hold for 1-5 day development per strategy."
+  }
+}

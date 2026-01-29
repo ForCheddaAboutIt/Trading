@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-03T04:30:09.703416+00:00",
+  "type": "sell_decision",
+  "data": {
+    "action": "HOLD",
+    "product_id": "RENDER-USDC",
+    "base_size": "10.77",
+    "reason": "P&L +1.1% (no profit take or stop hit); RSI 65.7 (not >75); above ATR_STOP $1.5071; 4H BUY signal"
+  }
+}

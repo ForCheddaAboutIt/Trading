@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-02T21:15:03.634952+00:00",
+  "type": "sell_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "No JSON found"
+  }
+}

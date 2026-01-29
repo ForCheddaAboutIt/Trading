@@ -1,0 +1,18 @@
+{
+  "time": "2026-01-05T04:31:10.369366+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "SELL",
+      "product_id": "PROMPT-USDC",
+      "base_size": "4.5",
+      "reason": "P&L -2.8% (negative pos), 1H:SELL signal, RSI 46.3 (below 50 bearish momentum per VW-RSI trend conf[1][2]), current $0.06187 > ATR stop $0.0595 but trend broken - exit per NORMAL HOLDING rules"
+    },
+    {
+      "action": "HOLD",
+      "product_id": "AAVE-USDC",
+      "base_size": "0.051",
+      "reason": "P&L +1.6% <5% (normal holding); current $162.64 > ATR stop $159.75; RSI 46.3 neutral (like winning VW-RSI 35-39 not overbought); 4H BUY despite 1H SELL"
+    }
+  ]
+}

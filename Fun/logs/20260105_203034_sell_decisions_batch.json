@@ -1,0 +1,18 @@
+{
+  "time": "2026-01-05T20:30:34.102366+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "ORCA-USDC",
+      "base_size": "8.12",
+      "reason": "P&L +1.0% (<5%), Price 1.2291 > ATR Stop 1.2005, 1H:BUY/4H:BUY, RSI 57.4 (neutral, not overbought like WON RENDER/STX VW-RSI 35-39), BTC bullish +3.85%, matches holding WON strategies"
+    },
+    {
+      "action": "HOLD",
+      "product_id": "PROMPT-USDC",
+      "base_size": "4.5",
+      "reason": "P&L +0.7% <5% (NORMAL HOLDING); Current $0.06415 > ATR_STOP $0.0618; 1H:BUY/4H:BUY trend intact; RSI 54.7 neutral (not overbought like WON RENDER/STX VW-RSI 35-39 with room to grow); BTC +3.85% bullish; matches WON strategies"
+    }
+  ]
+}

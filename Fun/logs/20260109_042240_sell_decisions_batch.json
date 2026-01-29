@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-09T04:22:40.193185+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "SELL",
+      "product_id": "FET-USDC",
+      "base_size": "91.7",
+      "reason": "PANIC EXIT rule: position is negative (PnL -2.8%) and BTC is down more than -2%; 1H SELL, price drifting toward ATR stop and recent lessons say avoid holding when Tier 1 setup breaks and momentum turns."
+    }
+  ]
+}

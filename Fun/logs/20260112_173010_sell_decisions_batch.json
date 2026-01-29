@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-12T17:30:10.940014+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "AERO-USDC",
+      "base_size": "43.1",
+      "reason": "P&L +0.4% (<5%), Current $0.57449 > ATR_STOP $0.5584, 1H:BUY/4H:BUY, RSI 55.3 neutral/bullish matching WON AERO TIER 1 setup (6.4%), BTC neutral +1% stable; avoids LOST high-momentum/chasing patterns."
+    }
+  ]
+}

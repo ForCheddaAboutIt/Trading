@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-04T01:00:36.895071+00:00",
+  "type": "sell_decision",
+  "data": {
+    "action": "HOLD",
+    "product_id": "STX-USDC",
+    "base_size": "36.96",
+    "reason": "P&L +1.7% <5%, Current $0.3059 > ATR_STOP $0.2998, 4H STRONG_BUY, RSI 66.8 (room to grow per WON RENDER strategy VW-RSI<65), bullish engulfing pattern[1], strong momentum[6]"
+  }
+}

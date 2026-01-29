@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-02T20:00:47.677268+00:00",
+  "type": "sell_decision",
+  "data": {
+    "action": "SELL",
+    "product_id": "ADA-USDC",
+    "base_size": "0.006286",
+    "reason": "Profit target hit: P&L +11.7% exceeds 8% threshold."
+  }
+}

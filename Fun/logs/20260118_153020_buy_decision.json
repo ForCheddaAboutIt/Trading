@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-18T15:30:20.008223+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "ZRO-USDC",
+    "quote_size": "21.77",
+    "reason": "TIER 1 Setup: RSI 59.0 (ideal 50-60 range), +2.8% 24h gain (3-5% target), STRONG_BUY 1H signal, MACD bullish (0.04/0.04). Matches WON AERO/ROSE pattern: moderate volatility with RSI in sweet spot avoids overbought trap. BTC neutral (-0.26%) removes headwind. Capital allocation: 80% (21.77/27.21) per TIER 1 protocol. Avoids LOST trap: rejects ME/RARE/L3/ACH due to RSI >60 or gains >15% (chasing/overbought risk)."
+  }
+}

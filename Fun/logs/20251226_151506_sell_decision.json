@@ -1,0 +1,8 @@
+{
+  "time": "2025-12-26T15:15:06.739208+00:00",
+  "type": "sell_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "No positions meet sell criteria: none up 8%+ (profit target), none down 5%+ (stop loss), no trailing stop triggered (none reached 10%+ peak), daily BTC -1.53% <3% loss (no momentum reversal). All positions within -1% to 0%, hold for 1-5 day development."
+  }
+}

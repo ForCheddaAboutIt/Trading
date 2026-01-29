@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-04T19:30:35.303150+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "PROMPT-USDC",
+    "quote_size": "4.50",
+    "reason": "Strong Buy signal matching WON strategies: VW-RSI 25.5 (not overbought, room to grow like RENDER 35.8/STX 39.2), +6.8% gain (high vol), RSI 61.5 (Tier 2 HOT), 1H BUY conf, MACD neutral/bullish, BTC neutral - TIER 2 uses 80% of 5.63 capital"
+  }
+}

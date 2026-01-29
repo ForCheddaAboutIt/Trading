@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-25T10:30:13.037858+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "No candidates meet strict criteria: None have 4H Strong Buy (only 1H signals provided); all high gains (>8%) with RSI mostly >60 indicate chasing overbought TIER 2+ setups like recent LOST trades (e.g., TRUST-USDC +8.3% RSI56); BTC -1.07% dip lacks relative strength decoupling; avoid repeating LOST TIER 1 patterns."
+  }
+}

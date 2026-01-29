@@ -1,0 +1,8 @@
+{
+  "time": "2025-12-25T23:34:56.933541+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "No available USDC to buy ($0.00 balance). BTC market leading with minor dip (-0.40%), top assets like PAXG, YFI stable; await liquidity or stronger signals from sources highlighting ETH, BNB, SOL prospects[1]."
+  }
+}

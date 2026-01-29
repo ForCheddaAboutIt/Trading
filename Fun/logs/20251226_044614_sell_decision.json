@@ -1,0 +1,8 @@
+{
+  "time": "2025-12-26T04:46:14.831855+00:00",
+  "type": "sell_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "BTC-USDC position is up 2.04%, below 8% profit target; not down 5%+ for stop loss; BTC market +1.50% with positive momentum as leader; hold for 1-5 day trade to develop."
+  }
+}

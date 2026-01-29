@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-09T06:30:15.877422+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "IRYS-USDC",
+    "quote_size": "12.86",
+    "reason": "TIER 2 Setup closely matching WON POL strategy: BTC stable/up (+0.51%), 4H/1H STRONG_BUY, RSI 56.0 in healthy mid-range (not overbought), strong momentum with +7.0% 24h gain and high volume, MACD non-bearish/flat. Size reduced to 40% capital per rules for HOT setups to avoid chasing and respect risk after recent LOSSES on similar Tier 1 entries."
+  }
+}

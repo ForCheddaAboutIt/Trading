@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-06T23:30:10.466025+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "WIF-USDC",
+      "base_size": "65.21",
+      "reason": "P&L +0.2% <5% (normal holding); current $0.423 > ATR stop $0.3929; RSI 49.0 neutral (matches WON strategies VW-RSI 35-37 not overbought); 1H SELL/4H BUY mixed but trend not broken; repeats WON logic (TIER 1 VW-RSI setup), avoids LOST chasing/high RSI."
+    }
+  ]
+}

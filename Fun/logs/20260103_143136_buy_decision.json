@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-03T14:31:36.630311+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "AAVE-USDC",
+    "quote_size": "8.39",
+    "reason": "Strong Buy 1H signal with VW-RSI 16.6 (not overbought), +4.1% momentum, and solid volume. BTC neutral sentiment allows selective entry. Market expects bullish price action through January 15th before major catalysts (Clarity Act, tariffs). AAVE shows technical strength with room to run."
+  }
+}

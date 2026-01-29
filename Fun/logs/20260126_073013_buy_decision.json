@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-26T07:30:13.982496+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "product_id": null,
+    "quote_size": "0.00",
+    "reason": "No winning strategy match found. Recent losses show TIER 1 setup (RSI 50-60, +3-5% gain) consistently underperformed (-1.7% to -3.2%). All candidates violate safety rules: PAXG has RSI 60.1 (borderline overbought), VVV shows RSI 61.9 with extreme VW-RSI 73.1 (overbought risk), ROSE has +8.4% gain (chasing territory, >5% threshold) with VW-RSI 80.5 (extreme overbought). BTC neutral (-0.53%) provides no relative strength edge. Better to preserve capital and wait for cleaner setup matching a documented winning strategy."
+  }
+}

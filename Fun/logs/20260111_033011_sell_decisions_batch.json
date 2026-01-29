@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-11T03:30:11.549492+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "STX-USDC",
+      "base_size": "67.5",
+      "reason": "P&L -1.8% so profit target not hit and PANIC EXIT rule not triggered; price is above ATR stop (0.3836 > 0.3716) and 4H trend still BUY with RSI in the 50\u201360 Tier 1 band, consistent with prior WON AAVE/POL-style setups, so continue standard swing hold until ATR stop breaks or +5% target reached."
+    }
+  ]
+}

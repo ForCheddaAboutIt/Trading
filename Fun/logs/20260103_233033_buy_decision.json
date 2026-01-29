@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-03T23:30:33.679206+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "STX-USDC",
+    "quote_size": "11.25",
+    "reason": "Strong Buy signal: VW-RSI 39.2 (not overbought, room to grow <65), +9.3% 24h (high change >3%), High Vol, 1H BUY conf, matches WON RENDER strategy with low VW-RSI & momentum"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-06T20:30:11.985304+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "WIF-USDC",
+      "base_size": "65.21",
+      "reason": "P&L +0.5% (<5%), Current 0.424 > ATR Stop 0.3949. 1H NEUTRAL/4H BUY, RSI 50.7 (neutral, not overbought). Matches WON strategies (VW-RSI ~38 not overbought, RSI ~50 in 50-60 zone). BTC -1.75% bearish but relative strength holds. Trend not broken, no LOST logic (no chasing gains, RSI not extreme)."
+    }
+  ]
+}

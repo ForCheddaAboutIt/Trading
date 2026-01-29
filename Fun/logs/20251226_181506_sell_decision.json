@@ -1,0 +1,8 @@
+{
+  "time": "2025-12-26T18:15:06.382673+00:00",
+  "type": "sell_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "BTC pnl -0.00% (no 8%+ profit or 5%+ loss), YB pnl +0.8% (no 8%+ profit or 5%+ loss), ADA pnl +0.6% (no 8%+ profit or 5%+ loss). BTC 24h -0.96% < -3% threshold. No trailing stop or momentum reversal triggered. Hold for 1-5 day development."
+  }
+}

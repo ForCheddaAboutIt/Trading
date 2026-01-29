@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-12T03:30:15.110214+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "SELL",
+      "product_id": "AERO-USDC",
+      "base_size": "21.7",
+      "reason": "P&L +6.4% > 5% target with RSI 77.3 and strong 1H/4H buy signals indicates parabolic conditions; however, per rules must only HOLD if \u226590% confidence of further upside next hour\u2014given recent mixed win rate and mandate to lock in Tier 2-style winners, book profits now rather than risk reversal below ATR stop."
+    }
+  ]
+}

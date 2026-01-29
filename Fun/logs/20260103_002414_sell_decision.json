@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-03T00:24:14.876658+00:00",
+  "type": "sell_decision",
+  "data": {
+    "action": "HOLD",
+    "product_id": "RENDER-USDC",
+    "base_size": "10.77",
+    "reason": "P&L +0.46% < +8%, RSI 65.7 < 75, current $1.531 > ATR_STOP $1.4911, no BTC panic or hard stop triggered; 4H BUY signal"
+  }
+}

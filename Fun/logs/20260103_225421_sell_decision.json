@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-03T22:54:21.596966+00:00",
+  "type": "sell_decision",
+  "data": {
+    "action": "HOLD",
+    "product_id": "AAVE-USDC",
+    "base_size": "0.051",
+    "reason": "P&L +1.0% <8%, above ATR stop (161.64 >152), BUY signal on 1H/4H with RSI 59.8 not overbought, aligns with recent WON strategies on similar signals; USELESS also HOLD (P&L +1.5%, BUY/4H:BUY, RSI:58.4, above stop). BTC neutral +0.56%, no panic exit."
+  }
+}

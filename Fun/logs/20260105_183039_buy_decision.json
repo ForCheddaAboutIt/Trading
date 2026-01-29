@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-05T18:30:39.810750+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "ORCA-USDC",
+    "quote_size": "8.07",
+    "reason": "Tier 1 setup matching WON strategies: VW-RSI 35.4 (not overbought, room to grow like STX 39.2/RENDER 35.8), RSI 53.2 (50-60), Gain +5.7% (3-5%), High Vol, MACD bullish (0.03>0.02), 1H BUY, BTC bullish +3.20%"
+  }
+}

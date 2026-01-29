@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-23T18:30:17.032454+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "MANA-USDC",
+      "base_size": "116.51",
+      "reason": "Position +0.07% with RSI 50.4 (neutral zone), 1H/4H both BUY signals. Price $0.1701 above ATR stop $0.1641. BTC consolidating $90,770 (+1.23%) near support; market structure constructive but cautious. Bollinger Bands squeeze suggests imminent volatility[1]. Hold through squeeze breakout; exit if BTC drops below -2% or MANA closes below stop loss."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-09T22:30:12.510898+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "SELL",
+      "product_id": "SOL-USDC",
+      "base_size": "10.0",
+      "reason": "P&L -3.2% with 1H SELL, RSI 42.2, price has broken below ATR_STOP (133.2243) and is in a losing Tier 2 momentum trade; ATR stop rule triggered and recent lessons say avoid holding deteriorating momentum setups."
+    }
+  ]
+}

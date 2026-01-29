@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-22T14:30:13.576148+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "ACH-USDC",
+      "base_size": "1683.3",
+      "reason": "Position +0.31% with price $0.012266 above ATR stop $0.0120. RSI 44.4 (neutral, not overbought) aligns with winning TIER 1 setup criteria. Current price within predicted range ($0.01233-$0.01292 this week)[1]. BTC neutral (-0.81%) removes panic exit trigger. Technicals mixed (1H neutral, 4H buy) but fundamentals support holding: bullish sentiment[1], 60% green days[1], all EMA indicators showing BUY signals[1]. Entry matched winning ROSE-USDC pattern successfully. Hold through ATR stop at $0.0120; exit only if price breaks below stop or RSI exceeds 70 (overbought reversal risk)."
+    }
+  ]
+}

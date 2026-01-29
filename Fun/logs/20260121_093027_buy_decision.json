@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-21T09:30:27.434155+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "ACH-USDC",
+    "quote_size": "20.83",
+    "reason": "TIER 1 Setup matching WON ROSE-USDC pattern: +4.3% 24h gain (within 3-5% ideal range), RSI 54.1 (perfect 50-60 zone), MACD bullish (0.00/0.00), High Volume 286M showing strong buyer interest. Relative Strength confirmed\u2014ACH decoupling positively while BTC down -2.05%. 80% capital allocation justified by ideal RSI tier and volatility match to winning ROSE strategy. Avoids LOST patterns (BERA overbought RSI >60, KTA/BIO >10% chasing, SAND false breakout)."
+  }
+}

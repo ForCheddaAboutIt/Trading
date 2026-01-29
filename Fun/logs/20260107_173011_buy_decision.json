@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-07T17:30:11.614168+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "POL-USDC",
+    "quote_size": "26.06",
+    "reason": "TIER 1 Setup matching WON AAVE strategy: RSI 55.2 (50-60), Gain +2.1% (3-5% range), 1H BUY, High Vol, VW-RSI 41.6 (not overbought, room to grow), MACD neutral, BTC neutral market - avoids LOST Tier 1 traps with lower gain/no chase."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-25T14:30:12.337254+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "SUPER-USDC",
+      "base_size": "85.47",
+      "reason": "Position -2.4% below entry; RSI 48.4 (ideal 50-60 range) suggests potential recovery; ATR stop $0.1923 not breached; 1H NEUTRAL/4H BUY supports holding. Search results show mixed sentiment (bearish near-term per CoinCodex[1], but potential upside Feb-Mar[2]). Current price $0.2043 above ATR stop. Avoid panic exit; monitor for RSI recovery toward 50-60 zone and 4H BUY confirmation before adding or exiting."
+    }
+  ]
+}

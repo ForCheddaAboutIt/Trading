@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-06T16:30:29.825860+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "WIF-USDC",
+    "quote_size": "27.85",
+    "reason": "TIER 1 Setup: VW-RSI 37.6 (not overbought, room to grow\u2014matches WON STX strategy), RSI 49.2 (50-60 zone ideal), +3.2% 24h gain, Strong 1H BUY signal, MACD bullish. Relative strength confirmed (WIF +3.2% vs BTC -1.61%). 80% capital allocation. Avoids LOST trade logic (no chasing >15% gains, no RSI >75)."
+  }
+}

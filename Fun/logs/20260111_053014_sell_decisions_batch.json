@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-11T05:30:14.753058+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "STX-USDC",
+      "base_size": "67.5",
+      "reason": "P&L is -1.5% (no panic exit), profit target not reached, current price remains above ATR_STOP (0.3848 > 0.3733) and 4H trend is still BUY with RSI in neutral 50\u201360 band; aligns with prior WON Tier 1 swing logic and avoids reactive exits seen in LOST trades."
+    }
+  ]
+}

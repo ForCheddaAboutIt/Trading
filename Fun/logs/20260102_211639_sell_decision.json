@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-02T21:16:39.303432+00:00",
+  "type": "sell_decision",
+  "data": {
+    "action": "SELL",
+    "product_id": "XAN-USDC",
+    "base_size": "267.4",
+    "reason": "Stop loss triggered (-3.6%)"
+  }
+}

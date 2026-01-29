@@ -1,0 +1,10 @@
+{
+  "time": "2025-12-26T04:47:40.158632+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "ALEPH-USDC",
+    "quote_size": "9.75",
+    "reason": "ALEPH-USDC shows strongest multi-timeframe momentum with +57.9% 24h, +57.9% 1H, +51.5% 4H, exceeding 5% threshold across all provided timeframes; outperforms others like FLOCK-USDC (+17.2% 24h, +17.2% 1H, +11.4% 4H). Position sized to max $9.75 within available capital."
+  }
+}

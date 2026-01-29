@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-27T11:30:13.458445+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "No winning strategies in recent lessons to repeat; all listed are LOST (TIER 1/2 and relative strength failed). Current candidates lack perfect tier fit: PROMPT/AKT/ZEC high gains but RSI 53-70 (Tier 2+), VW-RSI often >70 overbought; ASTER/AXS borderline but match prior LOST TIER 1 logic. BTC neutral, no clear edge\u2014patience rules."
+  }
+}

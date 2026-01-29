@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-11T22:30:17.373694+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "product_id": null,
+    "quote_size": "0.00",
+    "reason": "No candidate matches the prior WON IRYS/POL-style conditions: all are only 1H BUY (no confirmed 4H strong buy), several are repeats of recent LOST tickers (AKT, SOL, FET) which must be avoided, BTC is neutral (no strong tailwind), and the only high-volatility TIER 2 option (PENDLE, +6.3%, RSI 65.9) lacks clear MACD confirmation and would be chasing momentum against the instruction to avoid repeating the high-momentum SOL/AKT loss pattern. Best action per rules is to stay in cash and wait for a cleaner Tier 1 or Tier 2 setup that clearly mirrors the prior WON strategy without overlapping with any LOST logic."
+  }
+}

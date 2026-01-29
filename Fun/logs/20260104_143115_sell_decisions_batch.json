@@ -1,0 +1,18 @@
+{
+  "time": "2026-01-04T14:31:15.058092+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "SELL",
+      "product_id": "USELESS-USDC",
+      "base_size": "41.9",
+      "reason": "Profit target >5% hit at +16.5%; RSI 71.6 overbought per standard levels (above 70 signals sell/take profit)[1][2][3]; not parabolic (RSI too high, no volume spike mentioned); above ATR stop but momentum extreme warrants exit per won strategies avoiding overbought entries"
+    },
+    {
+      "action": "HOLD",
+      "product_id": "AAVE-USDC",
+      "base_size": "0.051",
+      "reason": "P&L +3.2% with RSI 64.7 (approaching overbought 65-80 range). 1H STRONG_BUY and 4H BUY signals align with winning strategy pattern (VW-RSI not overbought, room to grow). Price $165.15 > ATR Stop $163.13. Monitor for parabolic confirmation (RSI 65-80, volume spike) to justify holding through 5% target; otherwise prepare to exit near $177.48 resistance."
+    }
+  ]
+}

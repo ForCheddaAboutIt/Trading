@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-21T19:30:12.166386+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "ACH-USDC",
+      "base_size": "1683.3",
+      "reason": "P&L +2.9% below 5% profit target. Price $0.01259 > ATR Stop $0.0121. RSI 59.7 in ideal 50-60 zone (matching winning ROSE-USDC pattern). 1H/4H STRONG_BUY technicals confirm trend intact. BTC neutral (-0.01%) removes panic exit risk. Hold per TIER 1 Setup strategy replication\u2014conditions match winning trade profile."
+    }
+  ]
+}

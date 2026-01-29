@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-06T15:30:11.689850+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "PROMPT-USDC",
+      "base_size": "410.2",
+      "reason": "P&L +2.2% below 5% target. Technicals remain strong (1H/4H STRONG_BUY, RSI 59.0 in bullish zone 50-70). VW-RSI strategy matching WON trades (not overbought, room to grow). ATR stop at $0.0633 intact. Hold while Price > ATR Stop and trend unbroken."
+    }
+  ]
+}

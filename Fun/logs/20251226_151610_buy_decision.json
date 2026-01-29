@@ -1,0 +1,10 @@
+{
+  "time": "2025-12-26T15:16:10.996313+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "FLOCK-USDC",
+    "quote_size": "4.88",
+    "reason": "Strongest multi-timeframe momentum in 8-15% daily range: +13.3% daily, 1H +13.3%>3%, 4H +11.8%>2%."
+  }
+}

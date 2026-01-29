@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-02T23:06:44.409301+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "All candidates show overbought conditions (VW-RSI > 60). Market sentiment remains uncertain with multiple catalysts pending (Clarity Act on Jan 15, tariff decisions, potential shutdown). No trade meets selection criteria of VW-RSI < 60 for strong buy setup."
+  }
+}

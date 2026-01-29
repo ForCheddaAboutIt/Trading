@@ -1,0 +1,18 @@
+{
+  "time": "2026-01-06T06:30:13.848625+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "PROMPT-USDC",
+      "base_size": "4.5",
+      "reason": "NORMAL HOLDING (<5% PnL +0.2%): Price 0.06383 > ATR Stop 0.0605; 1H:BUY/4H:BUY confirms trend intact; RSI 52.6 neutral (not overbought like WON RENDER/STX VW-RSI 35-39 with room to grow); matches repeat WON strategies."
+    },
+    {
+      "action": "SELL",
+      "product_id": "FIL-USDC",
+      "base_size": "6.218",
+      "reason": "P&L -0.6% with current_price $1.572 < ATR_STOP $1.5334; violates ATR STOP rule. Technicals NEUTRAL on 1H, mixed signals per sources[1][3], no parabolic momentum to override."
+    }
+  ]
+}

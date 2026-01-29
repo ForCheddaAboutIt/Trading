@@ -1,0 +1,8 @@
+{
+  "time": "2025-12-26T02:34:35.428641+00:00",
+  "type": "sell_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "Position up 2.03%, below 8% profit target. No stop-loss trigger (position positive, well above -5% threshold). BTC momentum positive (+1.39% 24h). Hold to allow trade development toward profit target."
+  }
+}

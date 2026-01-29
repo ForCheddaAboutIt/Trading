@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-14T22:30:11.279536+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "SELL",
+      "product_id": "ROSE-USDC",
+      "base_size": "24.23",
+      "reason": "Profit target >5% hit at +5.9%; technicals NEUTRAL on 1H (RSI 50.2), 4H BUY but not PARABOLIC (RSI not 65-80, no volume spike or accelerating trend mentioned); multiple forecasts predict price decline to $0.011-0.012 range soon[1][2][3]; mimics WON AERO pattern but momentum fading per recent LOST AERO; above ATR stop but secure gains per rules."
+    }
+  ]
+}

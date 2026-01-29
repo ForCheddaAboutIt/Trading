@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-26T19:30:21.502627+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "product_id": null,
+    "quote_size": "0.00",
+    "reason": "No ideal setup available. ZEC (+10.1%, RSI 59.4) is closest to TIER 1 but MACD is deeply negative (-4.01/-4.76), signaling weakening momentum\u2014contradicts bullish setup. ALGO, JTO, LTC all show RSI 63-69 (TIER 2 hot zone) with strong gains, but recent losses on identical TIER 1/2 setups (TRUST, ASTER, SUPER all lost -1.8% to -3.2%) indicate this strategy is currently failing. SYRUP is overbought (RSI 73.9, VW-RSI 78.5)\u2014avoid chasing. BTC +1.75% is mildly bullish but insufficient to override weak candidate quality. Better to preserve capital and wait for cleaner MACD confirmation or RSI pullback to 50-60 range with bullish MACD crossover."
+  }
+}

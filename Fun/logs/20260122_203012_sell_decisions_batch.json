@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-22T20:30:12.343375+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "SELL",
+      "product_id": "ACH-USDC",
+      "base_size": "20.83",
+      "reason": "P&L -0.2% (<5%), but 1H:SELL signal + RSI 44.5 (below ideal 50-60 WON range from ROSE pattern); trend broken per HOLD rule. Current $0.012205 > ATR_STOP $0.0119 but technicals deteriorating vs WON strategy."
+    }
+  ]
+}

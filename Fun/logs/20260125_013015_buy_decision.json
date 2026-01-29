@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-25T01:30:15.425924+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "ASTER-USDC",
+    "quote_size": "18.72",
+    "reason": "TIER 1 Setup: RSI 55.1 (50-60 range), +3.3% 24h gain (3-5%), 1H BUY, MACD bullish (0.01>0.00), High Vol, BTC neutral (-0.57%), avoids LOST TIER 1 patterns by unique candidate"
+  }
+}

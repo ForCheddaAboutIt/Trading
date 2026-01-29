@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-23T05:30:12.621488+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "ACH-USDC",
+      "base_size": "1683.3",
+      "reason": "P&L +1.7% below 5% profit target. Price $0.01244 > ATR Stop $0.0122. RSI 53.0 in ideal 50-60 zone matching winning ROSE-USDC pattern. 1H/4H both BUY signals. Technicals remain bullish with no trend break. Hold for continued upside toward $0.01285 (6-month forecast) or $0.0156 (2026 max prediction). Exit if price closes below ATR stop or RSI breaks below 50."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-22T16:30:11.496609+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "ACH-USDC",
+      "base_size": "1683.3",
+      "reason": "P&L +0.17% below 5% target. Price $0.012249 > ATR Stop $0.0120. RSI 45.1 (ideal 50-60 zone) suggests room for upside before overbought. 1H neutral/4H buy alignment supports continuation. Technicals not yet parabolic; hold for target development per TIER 1 strategy that matched winning ROSE pattern."
+    }
+  ]
+}

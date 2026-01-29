@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-02T21:28:09.246824+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "BTC-USDC",
+    "quote_size": "12.64",
+    "reason": "BTC bullish market, STRONG_BUY 1H signal, RSI 62.7 in 45-65 range; no past trades, select top candidate matching criteria"
+  }
+}

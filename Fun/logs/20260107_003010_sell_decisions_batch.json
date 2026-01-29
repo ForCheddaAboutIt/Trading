@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-07T00:30:10.317261+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "WIF-USDC",
+      "base_size": "0",
+      "reason": "P&L -0.7% (<5%, normal holding). Current $0.419 > ATR_STOP $0.3905. 1H NEUTRAL/4H BUY, RSI 47.2 (neutral, not overbought). BTC neutral -0.50% (not < -2%). Matches WON strategies (low VW-RSI entry like 37.6), avoids LOST logic (no broken trend)."
+    }
+  ]
+}

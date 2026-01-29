@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-27T10:30:13.489469+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "No candidates meet criteria without repeating LOST TIER 1/2 strategies (e.g., ASTER-PROMPT RSI/gain similar to multiple LOSTs); PROMPT RSI 56.6 ideal but +11.4% exceeds TIER limits and chases; AKT/LIGHTER high gains >5-13% with VW-RSI>75-78 overbought risk; ZEC RSI 67.7 too high, MACD bearish; BTC neutral, no relative strength needed but no perfect setup."
+  }
+}

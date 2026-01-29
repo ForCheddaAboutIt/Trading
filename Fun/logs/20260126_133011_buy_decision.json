@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-26T13:30:11.113791+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "No candidates meet criteria: All have 24h gains >5% (BOB/ROSE +9-12%, VVV/ALGO +5.5-9.3%) avoiding TIER 1 (3-5%) which failed recently; VVV/RSI 70.8 and ALGO/RSI 70.2 are TIER 2 but over RSI 70 threshold to avoid chasing; MACD not clearly bullish (flat or minor); BTC neutral, no relative strength exception."
+  }
+}

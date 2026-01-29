@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-04T02:36:32.473602+00:00",
+  "type": "sell_decision_AAVE-USDC",
+  "data": {
+    "action": "HOLD",
+    "product_id": "AAVE-USDC",
+    "base_size": "0.051",
+    "reason": "P&L +2.6% <5% (normal holding); Current $164.19 > ATR_STOP $162.51; 1H:BUY/4H:BUY; RSI 68.5 not extreme; MACD positive; Analysts predict $177-195 (14-21% upside) with break above $165[1][2][3]; Repeats 'WON' strong buy signal logic."
+  }
+}

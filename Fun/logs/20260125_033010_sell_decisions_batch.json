@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-25T03:30:10.303803+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "ASTER-USDC",
+      "base_size": "28.06",
+      "reason": "P&L -0.8% (<5%), current 0.654 > ATR stop 0.6431, 4H BUY signal with RSI 50.9 in 50-60 range matching TIER 1 hold criteria, BTC neutral -0.92% > -2% threshold (no panic), trend intact avoids LOST patterns"
+    }
+  ]
+}

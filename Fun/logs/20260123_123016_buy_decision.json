@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-23T12:30:16.461115+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "product_id": null,
+    "quote_size": "0.00",
+    "reason": "No ideal setup found. BTC neutral (-0.51%), but all candidates show weak MACD confirmation or fail TIER 1 criteria. PAXG (RSI 58.1, +2.4%) lacks volatility. SKL (+7.1%) has RSI 52 but zero MACD values (data issue). MANA/SAND show RSI near lower bound (51.5/49.0) with minimal gains. RENDER has negative MACD (-0.01/-0.02). Recent losses on BERA/SAND/ACH used similar TIER 1 logic\u2014avoid repeating. No WON pattern match visible. Better to preserve capital than force weak trade."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-22T02:30:10.872407+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "ACH-USDC",
+      "base_size": "20.83",
+      "reason": "P&L +3.3% <5% threshold for normal holding; Current $0.012626 > ATR_STOP $0.0122; 1H:BUY/4H:STRONG_BUY with RSI 55.9 matching ideal 50-60 WON ROSE pattern; BTC neutral +0.98% supports continuation; Avoids LOST patterns like overbought RSI or false breakouts."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "time": "2025-12-25T23:39:29.278332+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "SOL-USDC",
+    "quote_size": "17.50",
+    "reason": "Capital is small and experimental, so priority is liquid large-caps with strong upside asymmetry rather than ultra-safe blue-chip BTC at all-time highs. Among available markets, SOL offers a leading high-throughput L1 with deep liquidity and high beta relative to BTC and ETH, making it suitable for a small, asymmetric swing position. Size is limited to 50% of USDC to manage downside while leaving dry powder for future entries or averaging if volatility increases."
+  }
+}

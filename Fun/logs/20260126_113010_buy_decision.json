@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-26T11:30:10.926100+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "BTC down -1.08% (neutral but approaching >-2% threshold per market check); no candidates meet tiered criteria without repeating LOST TIER 1 strategies (AUCTION RSI 53.3/+3.3% mirrors lost MANA/ASTER); PAXG MACD bearish (0.57<0.37); BOBBOB/VVV Tier 2+ (RSI>68, gains>8%) but overbought and chasing risk in risk-off macro[1][2]; no relative strength decoupling evident."
+  }
+}

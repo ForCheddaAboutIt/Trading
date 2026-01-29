@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-03T03:30:11.294957+00:00",
+  "type": "sell_decision",
+  "data": {
+    "action": "HOLD",
+    "product_id": "RENDER-USDC",
+    "base_size": "10.77",
+    "reason": "Position +0.92% profit with RSI 67 approaching overbought (75 threshold). Current price $1.538 above ATR Stop $1.5031. 4H BUY signal active but bearish medium-term sentiment and resistance near $1.48 warrant caution. Monitor for RSI > 75 or price rejection at resistance for exit."
+  }
+}

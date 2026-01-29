@@ -1,0 +1,18 @@
+{
+  "time": "2026-01-04T06:30:15.914455+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "USELESS-USDC",
+      "base_size": "41.9",
+      "reason": "P&L +3.8% <5% (normal holding); Current 0.1041 > ATR_STOP 0.0993; 1H:BUY/4H:BUY; RSI 57.5 (neutral, not overbought like winning VW-RSI 35.8/39.2 strategies); BTC bullish +2.19%; trend intact per recent WON strategies."
+    },
+    {
+      "action": "HOLD",
+      "product_id": "AAVE-USDC",
+      "base_size": "0.051",
+      "reason": "P&L +1.5% <5%, Current $162.49 > ATR_STOP $160.72, 1H:BUY/4H:BUY, RSI 54.9 neutral (room to grow like WON trades VW-RSI 35-39), analysts predict $172-195 short-term[1][2][3]"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-08T22:30:08.519310+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "POL-USDC",
+      "base_size": "199.61",
+      "reason": "P&L at +5.5% (>5% target) but technicals are near-parabolic: 1H/4H BUY, RSI 62.1 (strong but not overbought), price above ATR stop and trend intact. No PANIC EXIT trigger, BTC neutral, setup matches prior WON Tier 1 logic and avoids chasing/late entries seen in recent LOST trades. Maintain until clear momentum fade or RSI pushes into true overbought/acceleration exhaustion."
+    }
+  ]
+}

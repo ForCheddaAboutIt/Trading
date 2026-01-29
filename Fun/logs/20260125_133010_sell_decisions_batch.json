@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-25T13:30:10.924478+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "SUPER-USDC",
+      "base_size": "85.47",
+      "reason": "P&L +0.2% (<5%), current_price 0.20971 > ATR_STOP 0.1988, 1H:BUY/4H:BUY signals intact, RSI 57.0 in safe 50-60 range matching original TIER 1 WON pattern (avoids LOST traps of chasing higher RSI/gains), trend not broken, BTC neutral -0.84% (no panic)."
+    }
+  ]
+}

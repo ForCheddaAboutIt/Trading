@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-26T22:30:16.621949+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "No candidates meet criteria: All have RSI >58 (VVV 64.5, ZEC 64.9, ALGO 68.0, JTO 58.1 borderline but gain +13%>5% TIER2 limit, SYRUP 74.8 overbought>75 avoid); recent LOST trades on similar TIER1 RSI 50-60 with high gains; BTC not dipping so no relative strength exception; avoid chasing >10% gains per history lessons."
+  }
+}

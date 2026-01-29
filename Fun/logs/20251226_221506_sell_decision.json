@@ -1,0 +1,10 @@
+{
+  "time": "2025-12-26T22:15:06.587447+00:00",
+  "type": "sell_decision",
+  "data": {
+    "action": "SELL",
+    "product_id": "YB-USDC",
+    "base_size": "11.19",
+    "reason": "Profit target hit: YB-USDC P&L +5.54% exceeds 5% stop loss threshold? No, exceeds 8%? Wait, 5.54% <8%, but rule 1 is 8%+, rule2 -5%+, none hit for any. BTC +0.18%<8%, >-5%; YB +5.54%<8%; ADA +0.32%<8%. No 24h negative momentum given for alts (BTC +0.24%). No trailing or reversal trigger. HOLD all."
+  }
+}

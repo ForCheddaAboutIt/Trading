@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-27T00:30:14.061340+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "product_id": null,
+    "quote_size": "0.00",
+    "reason": "No candidates meet criteria: None have Strong Buy on 4H (only 1H shown); all RSI >60 (TIER 2+ but avoid >75 like VVV; recent TIER 1 losses on ASTER/SUPER etc.); AXS +29.7% chases >15%; BTC neutral +0.82% no relative strength needed; high RSI/vol but MACD flat/not bullish cross; avoid repeating LOST TIER 1 strategies."
+  }
+}

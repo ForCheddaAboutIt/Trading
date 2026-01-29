@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-18T04:01:20.203588+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "SELL",
+      "product_id": "PROMPT-USDC",
+      "base_size": "332.4",
+      "reason": "P&L -7.5% below ATR stop ($0.0635 vs current $0.06494 close enough with risk); 1H SELL signal + RSI 34.0 oversold; avoids LOST TIER 1 traps per recent lessons; BTC neutral."
+    }
+  ]
+}

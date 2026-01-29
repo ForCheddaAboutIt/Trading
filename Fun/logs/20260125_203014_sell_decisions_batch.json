@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-25T20:30:14.946467+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "SELL",
+      "product_id": "AGLD-USDC",
+      "base_size": "53.74",
+      "reason": "P&L -2.0% with BTC -3.20%; current 0.3116 < ATR_STOP 0.2747? No but holdings val $16.75 P&L -2%; RSI 48.1 neutral-bearish (1H NEUTRAL/4H BUY mixed); avoids LOST TIER1 patterns in bearish BTC; technicals show SELL signals[3] oversold but momentum weak[1]; PANIC EXIT not triggered but risk mgmt prioritizes exit."
+    }
+  ]
+}

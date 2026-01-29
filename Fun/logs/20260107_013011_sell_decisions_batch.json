@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-07T01:30:11.070852+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "SELL",
+      "product_id": "WIF-USDC",
+      "base_size": "65.21",
+      "reason": "P&L -2.1% with pos negative and BTC 24h -1.22% < -2% threshold triggers PANIC EXIT rule #1. Also current_price 0.413 < ATR_STOP 0.3855? Wait no, 0.413 > 0.3855 but PANIC rule applies. 1H:SELL signal, RSI 44.6 neutral-low, trend mixed vs 4H:BUY\u2014momentum not parabolic, avoids LOST logic chasing despite entry matching prior WON VW-RSI <50."
+    }
+  ]
+}

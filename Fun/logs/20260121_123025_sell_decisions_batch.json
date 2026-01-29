@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-21T12:30:25.013893+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "SELL",
+      "product_id": "ACH-USDC",
+      "base_size": "20.83",
+      "reason": "ATR STOP hit: current_price 0.012036 < ATR_stop 0.0116166. BTC -2.87% bearish, 1H SELL signal, RSI 48.3 neutral-lowering. P&L -1.6% minor loss, aligns with avoiding LOST patterns like BERA/SAND false breakouts."
+    }
+  ]
+}

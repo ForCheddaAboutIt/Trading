@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-19T04:30:13.802649+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "ROSE-USDC",
+      "base_size": "1402.3",
+      "reason": "Position +2.98% within normal holding range (<5%). Price $0.01484 > ATR Stop $0.0138. Technicals strong (1H:BUY, 4H:STRONG_BUY, RSI:57.0 in ideal 50-60 range). Macro backdrop supportive: whale accumulation, exchange supply shock (19.7K BTC outflow), and altcoin momentum (Ethereum +16.3%, Solana +17.7% 30-day) suggest capital rotating into higher-beta assets. BTC -2.65% does not trigger panic exit threshold (-2% on negative position). Hold through trend continuation."
+    }
+  ]
+}

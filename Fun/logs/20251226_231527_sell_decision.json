@@ -1,0 +1,8 @@
+{
+  "time": "2025-12-26T23:15:27.672695+00:00",
+  "type": "sell_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "BTC P&L +0.21% <8% profit target and >-5% stop loss; ADA P&L +0.83% <8% profit target and >-5% stop loss. No trailing stop, momentum reversal, or other sell conditions triggered. Market BTC +0.39% positive."
+  }
+}

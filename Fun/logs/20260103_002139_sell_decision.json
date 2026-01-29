@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-03T00:21:39.336403+00:00",
+  "type": "sell_decision",
+  "data": {
+    "action": "HOLD",
+    "product_id": "RENDER-USDC",
+    "base_size": "10.77",
+    "reason": "Position at entry (P&L 0%), RSI 65.3 approaching overbought (75), current price $1.524 above ATR Stop $1.4855. Monitor for RSI > 75 or price breach of ATR Stop for exit signals."
+  }
+}

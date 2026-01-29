@@ -1,0 +1,8 @@
+{
+  "time": "2025-12-25T23:49:15.003854+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "BTC down 0.53% with market slide and volatility risks from Strategy's BTC holdings pressure and global risk-off sentiment; top markets like PAXG, YFI show no clear 1-5 day breakouts or momentum; available USDC $35.01 too small for meaningful position in liquid assets per strategy (max 50%, prefer BTC/ETH/SOL etc.); avoid low-volume like CLANKER; no strong short-term opportunities identified[1][4]."
+  }
+}

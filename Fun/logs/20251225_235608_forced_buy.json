@@ -1,0 +1,10 @@
+{
+  "time": "2025-12-25T23:56:08.695066+00:00",
+  "type": "forced_buy",
+  "data": {
+    "action": "BUY",
+    "product_id": "BTC-USDC",
+    "quote_size": "15.75",
+    "reason": "Manual override - testing execution"
+  }
+}

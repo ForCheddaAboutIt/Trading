@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-21T10:30:12.157263+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "ACH-USDC",
+      "base_size": "20.83",
+      "reason": "P&L +0.04% (<5%), Current $0.012233 > ATR Stop $0.0119 and > entry $0.012228. 1H/4H STRONG_BUY, RSI 54.2 (ideal 50-60 matching WON ROSE strategy). BTC -2.09% but ACH decoupling positively per buy_reason. Bullish predictions (e.g., +7.83% Jan 21, +13.91% to $0.01457 by Feb)[1]. Avoids LOST patterns (no overbought RSI, no chasing >10%)."
+    }
+  ]
+}

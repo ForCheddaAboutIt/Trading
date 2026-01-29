@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-04T00:30:10.599688+00:00",
+  "type": "sell_decision",
+  "data": {
+    "action": "HOLD",
+    "product_id": "STX-USDC",
+    "base_size": "36.96",
+    "reason": "NORMAL HOLDING <8%: P&L +0.9%, Current 0.3035 > ATR_STOP 0.2974, STRONG_BUY/4H:BUY with RSI 65.0 (room to grow per WON RENDER strategy VW-RSI<65), trend intact; similar for USELESS +2.4% RSI60.9 STRONG_BUY, AAVE +2.1% RSI67.2 BUY - all above stops[1][2]"
+  }
+}

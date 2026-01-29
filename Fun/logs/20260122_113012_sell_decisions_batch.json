@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-22T11:30:12.837901+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "ACH-USDC",
+      "base_size": "1683.3",
+      "reason": "Position +1.4% within normal holding range (<5%). Price $0.012394 > ATR Stop $0.0121. RSI 48.3 approaching ideal 50-60 zone (matching winning ROSE pattern). 1H neutral/4H buy signals suggest potential upside. Bullish sentiment[1] and technical alignment with entry thesis intact. Hold for target advancement toward $0.01343 (Feb 20 forecast)[1]."
+    }
+  ]
+}

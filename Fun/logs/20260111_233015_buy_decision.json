@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-11T23:30:15.042808+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "product_id": null,
+    "quote_size": "0.00",
+    "reason": "No candidate matches the prior WON TIER 2-style high-momentum pattern with BTC stable and strong 4H confirmation: SOL has good momentum but was a recent LOST strategy; AERO/FET are Tier 1-style setups similar to multiple recent LOSSES; TAO lacks volatility; PENDLE is overextended (RSI ~67, +6.8% with VW-RSI >70, close to overbought/chasing). Best to stay in cash and avoid forcing a trade."
+  }
+}

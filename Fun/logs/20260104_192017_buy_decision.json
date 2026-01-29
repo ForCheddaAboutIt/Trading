@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-04T19:20:17.844652+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "PROMPT-USDC",
+    "quote_size": "22.52",
+    "reason": "Tier 1 Setup matching WON strategies: +7.0% 24h gain (3-5% ideal), RSI 61.8 (50-60 range), VW-RSI 25.5 (not overbought, room to grow like 35.8/39.2 in wins), 1H BUY, high vol, MACD neutral, BTC neutral. 80% of 28.15 capital."
+  }
+}

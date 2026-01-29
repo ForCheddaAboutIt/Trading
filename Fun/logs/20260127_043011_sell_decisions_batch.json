@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-27T04:30:11.137787+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "SELL",
+      "product_id": "AVNT-USDC",
+      "base_size": "31.6",
+      "reason": "ATR_STOP breached (current $0.3013 > stop $0.2967 but P&L -3.5% with 1H:SELL/4H:NEUTRAL, RSI:46.7 declining; avoids LOST TIER patterns; trend broken per rules"
+    }
+  ]
+}

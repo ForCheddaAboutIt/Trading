@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-03T14:31:08.469159+00:00",
+  "type": "sell_decision",
+  "data": {
+    "action": "HOLD",
+    "product_id": "RENDER-USDC",
+    "base_size": "10.77",
+    "reason": "P&L +0.26% (below +8% threshold, RSI 57.7 <75), current $1.528 > ATR_STOP $1.4980, no panic conditions met, technicals STRONG_BUY on 4H"
+  }
+}

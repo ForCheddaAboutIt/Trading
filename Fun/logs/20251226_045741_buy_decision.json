@@ -1,0 +1,8 @@
+{
+  "time": "2025-12-26T04:57:41.702573+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "No assets meet 5-20% daily gain criteria with both 1H/4H positive in ideal 8-15% zone and consistent across timeframes; ALEPH exceeds 30% pump threshold, FLOCK/YB slightly over 15% with 1H-4H spread >5%, PLUME/SUP ideal range but weaker 4H momentum."
+  }
+}

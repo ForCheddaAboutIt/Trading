@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-24T18:30:12.244091+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "TRUST-USDC",
+      "base_size": "19.47",
+      "reason": "Position +1.6% with RSI 59.4 (ideal 50-60 range), strong technicals (1H/4H STRONG_BUY), price above ATR stop ($0.1141). BTC neutral (-0.65%) supports continued holding. Market consolidating $90k-$92k; no panic exit trigger. Maintain position while technicals remain bullish and stop-loss intact."
+    }
+  ]
+}

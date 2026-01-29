@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-27T14:30:15.655390+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "No candidates meet strict criteria: All lack explicit 4H Strong Buy (only 1H BUY shown); recent LOST trades used similar TIER 1/2 RSI/gain logic (e.g., RSI 55-58, +3-7% gains) which failed; BTC neutral (+0.67%) offers no relative strength exception; MACD mixed/neutral on leaders like CHZ/PROMPT; avoid repeating losing strategies per lessons."
+  }
+}

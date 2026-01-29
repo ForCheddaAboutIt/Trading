@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-19T00:30:16.756968+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "SELL",
+      "product_id": "ZRO-USDC",
+      "base_size": "12.4",
+      "reason": "ATR Stop breach: Current $1.646 < ATR Stop $1.6169. RSI 25.6 (oversold/capitulation). 1H/4H both SELL signals. Position -5.1% with technical breakdown confirms stop loss execution. BTC -2.46% adds bearish pressure."
+    }
+  ]
+}

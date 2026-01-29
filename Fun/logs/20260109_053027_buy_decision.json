@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-09T05:30:27.661858+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "No candidate matches the proven WON POL Tier 1 pattern (RSI 50-60 with only 3-5% gain). IRYS has ideal RSI (53.1) but gain is 7.1% (>5%), making it hotter than the POL-style setup. SYRUP, VVV, and ZEN are TIER 2 (RSI 60-70 with >5% gains), but recent history shows similar hot entries (FET, SNX) led to LOSSES, so that logic must be avoided. POL is near AVOID zone (gain 14.9%, RSI 73.6, close to >15% gain and >75 RSI overbought), which conflicts with risk rules. MACD is not clearly, strongly leading and several tickers are flat or equal lines, providing no clean edge. In line with the PATIENCE rule and avoiding repeat of LOSING strategies, staying in cash is preferred over forcing a suboptimal trade."
+  }
+}

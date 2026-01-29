@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-02T23:11:54.535145+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "RENDER-USDC",
+    "quote_size": "16.69",
+    "reason": "Strong Buy signal: VW-RSI 35.8 (not overbought), 1H BUY confirmation, +9.7% momentum. BTC bullish at $90,080. RENDER offers best risk/reward with lowest VW-RSI among candidates while maintaining strong uptrend."
+  }
+}

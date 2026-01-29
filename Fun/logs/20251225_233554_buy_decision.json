@@ -1,0 +1,8 @@
+{
+  "time": "2025-12-25T23:35:54.340576+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "Portfolio is 100% in USDC with a very small balance, and any single purchase would be extremely small relative to top large-cap assets like BTC, ETH, SOL, or BNB. With no clear short-term edge and given high volatility and fees relative to a ~$35 account, preserving capital in stablecoin and waiting for a clearer opportunity or larger balance is the lower-risk choice compared to initiating tiny, fragmented positions now."
+  }
+}

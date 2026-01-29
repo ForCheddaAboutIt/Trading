@@ -1,0 +1,10 @@
+{
+  "time": "2025-12-26T18:16:16.124704+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "ZKP-USDC",
+    "quote_size": "13.52",
+    "reason": "Strongest multi-timeframe momentum in 8-15% daily range: +14.8% daily, 1H +14.8%>3%, 4H +23.7%>2%; prioritizes 8-15% per criteria over PRIME's 23.2% pump risk."
+  }
+}

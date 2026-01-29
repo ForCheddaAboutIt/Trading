@@ -1,0 +1,8 @@
+{
+  "time": "2025-12-26T04:15:10.466921+00:00",
+  "type": "sell_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "P&L at +1.6086% is below 8% profit target and above 5% stop loss threshold. Trade still developing within risk parameters."
+  }
+}

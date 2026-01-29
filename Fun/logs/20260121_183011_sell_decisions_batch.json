@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-21T18:30:11.543905+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "ACH-USDC",
+      "base_size": "20.83",
+      "reason": "P&L +2.4% <5% threshold; Price $0.012522 > ATR_STOP $0.0120; 1H/4H STRONG_BUY with RSI 57.5 in ideal 50-60 WON ROSE range; BTC -1.87% but ACH decoupling positively per buy_reason; Technicals match WON strategy, avoid LOST patterns."
+    }
+  ]
+}

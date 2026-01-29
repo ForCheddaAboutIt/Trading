@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-10T20:30:19.506867+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "No candidate matches the proven WON setup profile without violating risk rules: all coins either have RSI \u2265 68 or 24h gain > 15%, which falls into the AVOID zone (RSI > 75 and/or Gain > 15%). POL, BLZ, GMT, and AKT are all in chase territory with 18\u201320%+ daily moves, while STX is a TIER 2-style hot momentum play with Gain 8.9% and RSI 68.3, resembling the LOST SOL/FET/SNX trades more than the prior WON POL/AAVE Tier 1 setups. BTC is neutral, so no forced relative-strength exception applies. Best action per rules and recent lessons is to stay in cash and wait for a cleaner Tier 1 setup."
+  }
+}

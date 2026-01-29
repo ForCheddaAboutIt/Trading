@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-27T02:30:11.177971+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "AVNT-USDC",
+      "base_size": "31.6",
+      "reason": "P&L -0.9% (<5%), Current $0.3096 > ATR Stop $0.2983, 1H:BUY/4H:BUY, RSI 56.3 intact, BTC +1.51% bullish; TIER 2 setup avoids LOST TIER 1 patterns (RSI 54-56 + high 24h gains); trend not broken per rules"
+    }
+  ]
+}

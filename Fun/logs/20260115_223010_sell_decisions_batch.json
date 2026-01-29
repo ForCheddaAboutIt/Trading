@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-15T22:30:10.817083+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "SELL",
+      "product_id": "PROMPT-USDC",
+      "base_size": "371.9",
+      "reason": "ATR stop breached: current price $0.06305 below stop loss $0.0643625. RSI 38.4 confirms downtrend. 1H chart shows SELL signal. Position down -6.9% with deteriorating technicals\u2014exit to preserve capital."
+    }
+  ]
+}

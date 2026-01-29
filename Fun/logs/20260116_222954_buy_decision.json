@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-16T22:29:54.072331+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "PROMPT-USDC",
+    "quote_size": "23.63",
+    "reason": "TIER 1 Setup matching WON ROSE pattern: RSI 57.8 (50-60 range), Gain 10.5% (high vol), MACD neutral/bullish (0.00/0.00), STRONG_BUY 1H, High Vol, BTC neutral; mimics WON AERO TIER 2 momentum with relative strength; avoids LOST TIER 1 traps by high gain/vol confirmation (80% capital)."
+  }
+}

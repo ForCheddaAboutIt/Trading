@@ -1,0 +1,18 @@
+{
+  "time": "2026-01-04T21:30:15.818311+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "PROMPT-USDC",
+      "base_size": "4.5",
+      "reason": "P&L +0.2% <5% (normal holding); Current 0.06382 > ATR stop 0.0605; 1H:BUY/4H:BUY signals intact; RSI 59.5 (not overbought, room to grow like WON trades VW-RSI 35.8/39.2); matches repeat WON strategies."
+    },
+    {
+      "action": "HOLD",
+      "product_id": "AAVE-USDC",
+      "base_size": "0.051",
+      "reason": "P&L +2.9% <5% (normal holding); current $164.7 > ATR stop $162.23; 1H STRONG_BUY/4H BUY; RSI 57.4 (neutral, not overbought like winning VW-RSI 35-39 strategies); trend intact per rules."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-22T23:30:12.654498+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "ACH-USDC",
+      "base_size": "1683.3",
+      "reason": "Position -0.64% (within normal swing range <5%). Current price $0.01215 > ATR Stop $0.0119. 1H SELL signal concerning but 4H NEUTRAL and RSI 43.2 (not oversold) suggest consolidation rather than breakdown. Entry matched winning ROSE pattern with strong technicals at entry. BTC neutral (-0.54%) provides no panic trigger. Monitor for ATR stop breach; exit if price closes below $0.0119."
+    }
+  ]
+}

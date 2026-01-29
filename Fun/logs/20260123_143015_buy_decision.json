@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-23T14:30:15.760193+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "No candidates meet strict criteria: All have 1H BUY (not confirmed 4H Strong Buy); multiple LOST trades on PAXG/SAND TIER 1 logic; SKL/MANA/SAND exceed 5% gain risking chase (>TIER 1/2 ideal); BTC neutral, no relative strength decoupling; prioritize patience per rules."
+  }
+}

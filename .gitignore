@@ -1,0 +1,7 @@
+# Environment variables (contains secrets/API keys)
+.env
+
+# Python virtual environments
+.venv/
+venv/
+ENV/

@@ -1,0 +1,24 @@
+{
+  "time": "2026-01-04T02:39:13.011798+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "STX-USDC",
+      "base_size": "36.96",
+      "reason": "P&L +2.4% <5% (normal holding); Current $0.3078 > ATR_STOP $0.3024; 1H:BUY/4H:STRONG_BUY; RSI 67.6 matches WON RENDER strategy (low VW-RSI entry, momentum); Bullish technicals from sources[1][2][3] (bullish engulfing, projection to $0.308+, strong momentum, support $0.296-0.297 holds)"
+    },
+    {
+      "action": "HOLD",
+      "product_id": "USELESS-USDC",
+      "base_size": "41.9",
+      "reason": "P&L +3.1% <5% (normal holding); Current 0.1034 > ATR_STOP 0.0990; 1H:BUY/4H:STRONG_BUY signals intact; RSI 59.8 neutral (30-70 range, not overbought), trend bullish per recent WON VW-RSI strategy logic[1][2][3]"
+    },
+    {
+      "action": "HOLD",
+      "product_id": "AAVE-USDC",
+      "base_size": "0.051",
+      "reason": "P&L +2.5% <5% (normal holding); Current $164.11 > ATR_STOP $162.42; 1H:BUY/4H:BUY with RSI 68 (bullish technicals); Analysts predict $177-195 targets (14-21% upside) with key resistance break at $165[1][2][3]; Repeat WON strategy on strong buy signals."
+    }
+  ]
+}

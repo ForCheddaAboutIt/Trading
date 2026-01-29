@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-07T06:30:11.587487+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "SNX-USDC",
+      "base_size": "25.641",
+      "reason": "P&L -0.2% (<5%, normal holding). Current $0.515 > ATR_STOP $0.4969. RSI 50.8 neutral (50-60 range like entry), 1H NEUTRAL/4H BUY, trend intact. Repeats WON strategy patterns (Tier 1 RSI 50-60, relative strength), avoids LOST RSI/volume flaws. BTC neutral -0.48% (not <-2%). No panic exit."
+    }
+  ]
+}

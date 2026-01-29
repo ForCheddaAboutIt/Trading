@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-20T22:30:17.022074+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "product_id": null,
+    "quote_size": "0.00",
+    "reason": "Market conditions prohibit trading. BTC at -3.44% (>-2% threshold) triggers MARKET CHECK FAIL. All candidates show critical disqualifiers: AXS +27.8% (CHASING - avoid >15%), PAXG RSI 81.0 (OVERBOUGHT - avoid >75%), ZRO RSI 62.9 + MACD flat (0.03/0.02, no bullish cross). No relative strength decoupling detected. Recent history shows TIER 1 setups with RSI 50-60 + moderate gains (LOST ZRO -5.1%, LOST SAND -2.7%). Only WON trade (ROSE-USDC +19.6%) had +3.8% gain with clean setup\u2014no current candidate matches. Macro uncertainty + tariff risks + bear signals (Kumo twist, below 365MA) create hostile environment[1][4]. PATIENCE CRITICAL: Better to hold than force weak setup."
+  }
+}

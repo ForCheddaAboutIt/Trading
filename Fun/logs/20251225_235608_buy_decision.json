@@ -1,0 +1,8 @@
+{
+  "time": "2025-12-25T23:56:08.370082+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "BTC shows slight 24h decline (-0.28%) with no clear breakout or strong momentum signals in top markets; general market momentum weakening per indicators, no 8-15% short-term upside evident in available liquid pairs on Christmas eve with low volume risk."
+  }
+}

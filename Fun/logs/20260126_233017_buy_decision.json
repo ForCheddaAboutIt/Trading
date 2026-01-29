@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-26T23:30:17.128478+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "No candidates meet strict criteria without repeating LOST TIER 1 strategies (RSI 50-60 with gains): AXS/ALGO/LTC Tier 2 (RSI>60, high gains risk chasing), VVV overbought RSI 73.7>75 avoid, ROSE low gain 2.5% stagnant despite RSI 52.6; BTC bullish but no perfect setup, patience critical."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-21T02:30:16.836186+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "product_id": null,
+    "quote_size": "0.00",
+    "reason": "Market conditions prohibit trading. BTC down -3.63% in 24h (exceeds -2% threshold)[1], triggering bear market protocol. No candidate meets TIER 1 criteria: SAND shows ideal RSI 57.5 and +3.1% gain (matching WON ROSE pattern), but MACD is flat (0.00/0.00\u2014no bullish confirmation). AXS/KTA/ZRO/PAXG all overbought (RSI >60) or chasing gains (>15%). Historical lesson: LOST trades used similar overbought setups (ZRO RSI 71.8, AXS RSI 68.8). Search results confirm bearish structure: Kumo twist bearish, BTC below 365-day MA, exchange inflows signal distribution[1]. Wait for BTC stabilization and a cleaner TIER 1 setup with RSI 50-60 + MACD bullish crossover."
+  }
+}

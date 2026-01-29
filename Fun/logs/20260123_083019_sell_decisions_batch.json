@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-23T08:30:19.042096+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "ACH-USDC",
+      "base_size": "1683.3",
+      "reason": "Position +0.6% within normal holding range (<5%). Price $0.012302 above ATR stop $0.0121. RSI 48.1 approaching ideal 50-60 zone suggests potential upside. 1H SELL signal conflicts with 4H BUY and bullish technicals (MACD positive, high volume). Maintain position pending RSI recovery to 50-60 range or price break above $0.0114 resistance. Exit if price closes below ATR stop or BTC triggers panic exit (<-2%)."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "time": "2025-12-25T23:40:45.145686+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "SOL-USDC",
+    "quote_size": "17.50",
+    "reason": "Using experimental capital, a small position in SOL offers asymmetric upside: it is a leading high-throughput L1 with strong DeFi and NFT ecosystems, is listed among top 2025 picks alongside BTC and ETH, and its ~$120 price allows a meaningful fraction of a coin with your size while keeping ~50% in USDC for optionality and future entries."
+  }
+}

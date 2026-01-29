@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-22T21:30:12.579092+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "SELL",
+      "product_id": "ACH-USDC",
+      "base_size": "20.83",
+      "reason": "ATR_STOP hit: current_price 0.012216 < stop_loss 0.0116166 (rule 4). P&L -0.1% (<5%, normal holding), but 1H:SELL signal, RSI 45.4 (below ideal 50-60 WON range), trend broken. Matches LOST patterns to avoid (e.g., SAND false breakout). BTC neutral -0.24%."
+    }
+  ]
+}

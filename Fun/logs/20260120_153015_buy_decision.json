@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-20T15:30:15.080218+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "BTC dropping -2.93% (hard drop >-2%, rule 1: DO NOT BUY). No candidate shows clear Relative Strength exception: SAND +6.7% RSI52.6 MACD flat (0.00/0.00 not > signal), AXS +20.8% overextended (gain>15% avoid, VW-RSI75.5), PAXG low vol +1.3% RSI67.4 (Tier2 but no RS). Recent LOSTs on similar TIER1/RSI50-60 despite BTC dips; mimic WON ROSE (+3.8% precise Tier1) not matched."
+  }
+}

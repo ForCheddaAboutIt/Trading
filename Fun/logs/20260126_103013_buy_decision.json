@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-26T10:30:13.861909+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "BTC -0.70% (neutral, not >-2% dip for relative strength exception). No candidates meet criteria: AUCTION +14.5%>15% chase/avoid, RSI 53 but failed TIER 1 pattern (recent LOST trades); PAXG/ROSE +1.3%<3% low volatility; VVV RSI 71.6 (60-70 but avoid >75 overbought logic, gain 9.4%>5% TIER 2 risky). All 1H BUY but lack 4H Strong Buy confirmation; repeat LOST TIER 1 avoids."
+  }
+}

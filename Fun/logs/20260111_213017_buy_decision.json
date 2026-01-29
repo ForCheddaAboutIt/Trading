@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-11T21:30:17.085145+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "No candidate matches prior WON setups under current rules. WON strategies favored controlled momentum (3\u201310% range) with strong but not extreme volatility and no chasing. HYPER is disqualified by +24.3% and explicit rule to avoid gain >15%. BCH and SOL have insufficient 24h change (<3%) for the volatility preference. TAO has good gain (+3.2%) and RSI (52.1) but is only a 1H BUY with no provided confirmation of a 4H Strong Buy baseline, so it fails the mandatory 4H Strong Buy rule. PENDLE fits TIER 2 RSI and gain criteria but its +7.4% move is closer to chasing than the measured TIER 2 winners, and recent LOST trades (SOL, STX, FET) came from similarly aggressive momentum entries; repeating WON logic means avoiding such extended moves without clearer confirmation. Given the capital is small and no coin cleanly aligns with the successful AAVE/POL/IRYS-style setups while also passing all hard constraints (Strong Buy on 4H, MACD bullish, volatility in preferred band, and not overextended), the optimal decision per risk rules and patience doctrine is to stay in cash and wait for a cleaner TIER 1 or conservative TIER 2 pattern."
+  }
+}

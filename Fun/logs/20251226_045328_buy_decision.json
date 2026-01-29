@@ -1,0 +1,8 @@
+{
+  "time": "2025-12-26T04:53:28.631862+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "No coins show 5-15% multi-timeframe momentum; ALEPH-USDC (+57.5% 24h/1H, +51.1% 4H) exceeds 30% threshold indicating potential pump-and-dump. YB-USDC (+19.2%), FLOCK-USDC (+18.2%) also too high. PLUME-USDC (+11.7%), SUP-USDC (+10.0%), SYRUP-USDC (+9.3%) in range but lack strongest alignment per multi-timeframe research favoring trend confirmation across frames[1][2]."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-03T22:30:10.587826+00:00",
+  "type": "sell_decision",
+  "data": {
+    "action": "HOLD",
+    "reasoning": "Both positions show positive P&L with RSI in neutral-bullish territory (USELESS: 55.9, AAVE: 60.2). Current prices ($0.1007, $161.78) are above ATR stops ($0.0961, $159.9329), indicating no stop-loss triggers. BTC at +0.69% is neutral. With 100% win rate and positive expectancy, maintain positions pending technical confirmation above key resistance levels ($165 for AAVE, per search results). Monitor for RSI >70 (profit-taking signal) or breaks below support levels ($146.40 for AAVE)."
+  }
+}

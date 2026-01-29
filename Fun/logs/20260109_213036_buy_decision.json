@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-09T21:30:36.202903+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "product_id": "",
+    "quote_size": "0.00",
+    "reason": "No candidate cleanly matches the prior WON POL-USDC Tier 1 pattern (RSI 50-60, 24h gain 3-5%, strong buy, not overextended). GMT gain 19.1% and POL gain 12.3% both violate the rule to avoid chasing >15% or very strong spikes; POL is also Tier 2 (RSI 63.7, >5% gain) so only a 40% size would be allowed, but recent losses on similar aggressive momentum entries suggest avoiding this setup. STX (RSI 56.8, +4.4%) best fits Tier 1 on paper, but its VW-RSI 69.1 is much more heated than the prior POL win context and recent Tier 1 attempts with similar logic (SNX, FET) lost, so repeating that pattern is disallowed. RENDER has ideal gain 5.0% and RSI 53.4 but MACD line is below signal (0.06 < 0.08), violating MACD confirmation. ATOM is overbought (RSI 71.8) and to be avoided. With no coin matching the exact successful POL-style configuration without overlapping the logic of recent LOSERS, the optimal decision is to stay in cash and wait for a cleaner Tier 1 setup."
+  }
+}

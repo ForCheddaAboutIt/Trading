@@ -1,0 +1,16 @@
+{
+  "time": "2026-01-06T00:30:18.294649+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "ORCA-USDC",
+      "base_size": "8.12",
+      "reason": "NORMAL HOLDING (-1.1% <5%): Current $1.2037 > ATR Stop $1.1773. Matches WON strategies (VW-RSI was 35.4 like RENDER/STX, not overbought). RSI 48.8 neutral (30-70 per [1][3]), 4H BUY despite 1H SELL; trend not broken, BTC neutral +0.94%."
+    },
+    {
+      "action": "HOLD",
+      "reason": "No JSON found"
+    }
+  ]
+}

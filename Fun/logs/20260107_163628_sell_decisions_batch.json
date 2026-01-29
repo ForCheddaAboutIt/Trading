@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-07T16:36:28.113768+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "SELL",
+      "product_id": "SNX-USDC",
+      "base_size": "25.641",
+      "reason": "P&L -4.1% (<5%), Current $0.495 > ATR_STOP $0.4845 but 1H NEUTRAL, RSI 40.3 (below 50 signaling bearish momentum shift per VW-RSI guidelines), trend weakening vs entry (RSI 51.9), repeats LOST Tier 1/RSI logic flaws to avoid[1]"
+    }
+  ]
+}

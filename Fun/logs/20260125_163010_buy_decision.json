@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-25T16:30:10.961758+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "AXL shows relative strength (+20.5% vs BTC -1.49%), 1H BUY, RSI 57.8 (50-60), high vol, but gain >15% (AVOID chasing per rules), MACD flat (0.00/0.00 not bullish cross), recent TIER 1 losses on similar high-gain/RSI setups; no WON strategies to repeat."
+  }
+}

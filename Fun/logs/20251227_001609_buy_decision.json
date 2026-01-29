@@ -1,0 +1,8 @@
+{
+  "time": "2025-12-27T00:16:09.487978+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "No coins meet criteria: daily 8-15%, 1H >3%, 4H >2%. All top assets either exceed 16% daily (high pump risk) or fall short on daily gain (e.g., XAN 10.8% has 4H 5.1%>2% but prioritize 8-15% range first)."
+  }
+}

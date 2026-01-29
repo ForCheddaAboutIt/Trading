@@ -1,0 +1,18 @@
+{
+  "time": "2026-01-05T23:30:14.477855+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "ORCA-USDC",
+      "base_size": "8.12",
+      "reason": "P&L +1.0% (<5%), Current $1.2289 > ATR Stop $1.2047, 1H:BUY/4H:BUY signals intact, RSI 55.5 (neutral 50-60 like entry 53.2, not overbought per WON strategies VW-RSI 35-39 room to grow), BTC bullish +1.77%, matches ongoing WON strategy logic (VW-RSI low entry, RSI neutral, high vol, MACD bullish, trend hold)"
+    },
+    {
+      "action": "SELL",
+      "product_id": "PROMPT-USDC",
+      "base_size": "4.5",
+      "reason": "ATR_STOP hit: current_price 0.0625 > stop_loss 0.0605 but rule is Sell if Current < ATR Stop (position underwater -1.9%, 1H:SELL signal, RSI 47.3 neutral, mixed 1H/4H conflicting with WON strategies' bullish confirmation)"
+    }
+  ]
+}

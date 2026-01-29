@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-21T06:30:11.937778+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "SAND-USDC",
+      "base_size": "142.1",
+      "reason": "Position -0.8% with price $0.1459 above ATR stop $0.1403. RSI 57.0 in ideal 50-60 range, 1H BUY/4H STRONG_BUY signals intact. BTC -1.41% neutral headwind. SAND showing relative strength decoupling matching WON ROSE-USDC pattern. Hold through swing trade structure; no profit target hit, technicals not broken."
+    }
+  ]
+}

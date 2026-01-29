@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-21T05:30:13.614452+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "SAND-USDC",
+      "base_size": "142.1",
+      "reason": "P&L +0.2% <5% (normal holding). Current $0.1474 > ATR_STOP $0.1416. 1H:BUY/4H:STRONG_BUY, RSI:60.3 matches WON ROSE TIER 1 (RSI 50-60, relative strength vs BTC -1.48%). Avoids LOST logic (no >6% chase, not overbought). BTC neutral/bearish per sources but SAND decoupling holds."
+    }
+  ]
+}

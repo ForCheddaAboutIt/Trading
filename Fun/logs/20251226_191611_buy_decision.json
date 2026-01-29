@@ -1,0 +1,10 @@
+{
+  "time": "2025-12-26T19:16:11.366806+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "TRU-USDC",
+    "quote_size": "13.52",
+    "reason": "Strongest multi-timeframe momentum in 8-15% daily range: +10% daily, +10% 1H (>3%), +13.8% 4H (>2%); prioritizes criteria over higher % pumps with risk."
+  }
+}

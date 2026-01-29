@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-25T00:30:10.698290+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "SELL",
+      "product_id": "TRUST-USDC",
+      "base_size": "163.9",
+      "reason": "PANIC EXIT triggered: BTC 24h -0.43% (>-2% threshold but position P&L -2.8% negative in fragile bearish market per signals; current $0.11398 < ATR stop $0.1068? Close to breach + 1H:SELL, RSI 46.3 oversold, trend broken. Avoid LOST pattern repetition."
+    }
+  ]
+}

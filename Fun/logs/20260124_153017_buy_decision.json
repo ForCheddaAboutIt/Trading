@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-24T15:30:17.416481+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "No candidates meet strict criteria: All have 1H BUY (not confirmed 4H Strong Buy); recent LOST trades used flawed TIER 1 logic mimicking WON ROSE patterns which failed; BTC neutral dip (-0.85%) lacks relative strength exception; VOXEL +21% exceeds avoid >15% chasing; TRUST TIER 2 (RSI 58.5, +8.6%) but MACD flat/neutral, high vol but no perfect confirmation; prefer patience over weak setups."
+  }
+}

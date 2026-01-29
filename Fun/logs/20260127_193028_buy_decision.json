@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-27T19:30:28.482854+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "No winning strategies in recent lessons to repeat; all listed are LOST (avoid TIER 1 RSI 50-60 +3-5% gains, relative strength, TIER 2). Candidates show high gains >5% with mixed RSI (some 60+ risking overbought), BTC neutral but low win rate 25.7% warrants patience."
+  }
+}

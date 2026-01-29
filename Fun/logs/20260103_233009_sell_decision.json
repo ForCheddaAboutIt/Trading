@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-03T23:30:09.241514+00:00",
+  "type": "sell_decision",
+  "data": {
+    "action": "HOLD",
+    "product_id": "AAVE-USDC",
+    "base_size": "0.051",
+    "reason": "P&L +1.7% <8%, above ATR stop (162.78 >152), BUY signal on 1H/4H with RSI 64.3 not overbought, positive short-term predictions to $177-183[1][2] aligning with recent WON strategies on strong buy signals"
+  }
+}

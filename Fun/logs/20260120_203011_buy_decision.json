@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-20T20:30:11.554328+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "BTC dropping -3.56% (> -2% threshold); no Relative Strength (AXS +17.4% exceeds AVOID Gain >15%, PAXG/ZRO gains <3% and low vol); avoids LOST TIER 1 patterns like ZRO/BERA/SAND."
+  }
+}

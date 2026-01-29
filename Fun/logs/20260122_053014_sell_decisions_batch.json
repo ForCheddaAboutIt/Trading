@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-22T05:30:14.945225+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "ACH-USDC",
+      "base_size": "1683.3",
+      "reason": "P&L +3.6% below 5% profit target. Price $0.012663 > ATR Stop $0.0123. Technicals remain bullish (1H:BUY/4H:BUY, RSI 56.4 in ideal 50-60 zone). CoinCodex forecasts +8.98% to $0.01343 by Feb 20[1]. Volume and relative strength intact matching winning ROSE-USDC pattern. Hold through target zone."
+    }
+  ]
+}

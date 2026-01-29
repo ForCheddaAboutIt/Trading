@@ -1,0 +1,8 @@
+{
+  "time": "2025-12-26T03:15:08.352573+00:00",
+  "type": "sell_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "Position is +1.94% P&L, below 8% profit target. No stop-loss triggered (requires -5%). Momentum positive with market leader BTC up 1.38% in 24h. Allow trade to develop toward profit target."
+  }
+}

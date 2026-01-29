@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-09T07:30:28.727501+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "SOL-USDC",
+    "quote_size": "7.72",
+    "reason": "TIER 2-style high-momentum setup, closest to prior POL-USDC WIN: BTC stable (no >2% dump), SOL 24h gain +4.0% (strong but not parabolic, <5% band edge), RSI 60.5 (just into 60\u201370 HOT zone), MACD line 1.14 > signal 1.10 (bullish continuation), 1H BUY, decent volume. SYRUP, ZEN, VVV show hotter, more overextended RSI/gains, violating risk rules (RSI near/above 70, double-digit gains). IRYS has perfect % gain but MACD is flat (0.00/0.00) and 1H STRONG_BUY without clear momentum confirmation, unlike the POL-style winner. Size set to 40% capital per TIER 2 risk management to avoid chasing and mimic the controlled momentum profile of the prior WIN while avoiding the weaker Tier 1 entries that led to recent LOSSES."
+  }
+}

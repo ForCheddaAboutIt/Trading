@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-27T08:30:14.204719+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "No winning strategies in recent lessons to repeat; all listed are LOST (TIER 1/2 setups and relative strength failed). Candidates show high gains (>8%) with RSI mostly 58-75 (Tier 2 or overbought risk, avoid >75 per rules), many VW-RSI >70 indicating overbought; BTC neutral, no perfect tiered confirmation without repeating lost logic."
+  }
+}

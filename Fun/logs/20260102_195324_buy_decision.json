@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-02T19:53:24.456810+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "No TradingView-confirmed momentum coins available matching criteria."
+  }
+}

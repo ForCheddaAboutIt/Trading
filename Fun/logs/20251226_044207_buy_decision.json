@@ -1,0 +1,8 @@
+{
+  "time": "2025-12-26T04:42:07.827394+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "Parse error"
+  }
+}

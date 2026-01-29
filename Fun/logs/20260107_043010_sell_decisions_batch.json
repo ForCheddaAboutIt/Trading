@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-07T04:30:10.724617+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "SNX-USDC",
+      "base_size": "25.641",
+      "reason": "P&L +1.0% (<5%), Current $0.521 > ATR_STOP $0.4985, 1H:BUY/4H:BUY, RSI:53.4 (50-60 range matching entry's WON-like Tier 1 setup), trend intact, avoids LOST trades' flawed RSI/volume logic."
+    }
+  ]
+}

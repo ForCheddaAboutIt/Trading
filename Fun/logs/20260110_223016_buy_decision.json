@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-10T22:30:16.397966+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "STX-USDC",
+    "quote_size": "26.82",
+    "reason": "TIER 1-style setup closely matching prior WON AAVE/POL pattern while avoiding LOST filters: BTC neutral, 4H/1H BUY, RSI 59.2 in 50\u201360 band, 24h gain +4.9% in 3\u20135% band, MACD bullish and not extended. Other candidates violate rules (POL/BLZ gains >15% or RSI ~70 overbought; AKT/GMT mid-teens gains without ideal 3\u20135% profile). Allocate 80% of capital per TIER 1 rule and stay patient with remaining cash."
+  }
+}

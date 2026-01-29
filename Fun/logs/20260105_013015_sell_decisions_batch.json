@@ -1,0 +1,18 @@
+{
+  "time": "2026-01-05T01:30:15.895515+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "PROMPT-USDC",
+      "base_size": "419.2",
+      "reason": "Position -0.33% (within normal swing range). VW-RSI 25.5 matches winning pattern (RENDER 35.8, STX 39.2 both overbought-free entries). RSI 57.0 healthy, 1H/4H both BUY confirmed. Price above ATR stop ($0.0613). BTC +2.01% bullish backdrop supports continuation. Hold for target breakout; exit if breaks below ATR stop or BTC reverses below -2%."
+    },
+    {
+      "action": "HOLD",
+      "product_id": "AAVE-USDC",
+      "base_size": "0.051",
+      "reason": "P&L +3.9% <5% (normal holding); Current $166.34 > ATR_STOP $163.80; 1H/4H STRONG_BUY; RSI 64.0 not overbought (below 70 per [1][2][3]); mirrors winning VW-RSI strategies (35.8-39.2 not overbought, room to grow)"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "time": "2025-12-26T15:10:21.056450+00:00",
+  "type": "sell_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "No positions meet sell criteria: BTC P&L -0.32% (not down 5%+), ALEPH P&L -1.21% (not down 5%+), YB and ADA at 0% (no profit target hit or stop loss). BTC 24h -1.24% <3% threshold. Hold for 1-5 day development."
+  }
+}

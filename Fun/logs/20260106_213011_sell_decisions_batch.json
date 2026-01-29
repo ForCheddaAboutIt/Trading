@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-06T21:30:11.397099+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "WIF-USDC",
+      "base_size": "65.21",
+      "reason": "P&L +2.8% <5% (NORMAL HOLDING). Current $0.434 > ATR_STOP $0.4044. Trend intact: 1H BUY/4H STRONG_BUY, RSI 54.2 (50-60 ideal zone matching WON strategies, not overbought). Buy reason aligns with WON trades (VW-RSI 37.6 room to grow); avoids LOST logic (no chasing high gains/RSI>75). BTC neutral -0.75%, no panic."
+    }
+  ]
+}

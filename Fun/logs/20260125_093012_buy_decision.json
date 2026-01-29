@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-25T09:30:12.252063+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "product_id": null,
+    "quote_size": "0.00",
+    "reason": "BTC -1.29% dip; no candidates show 4H Strong Buy or clear MACD bullish cross (all MACD flat/unclear); all RSI >55 with high gains (>5%) resemble LOST TIER 1 patterns (e.g. RSI 55-56 +3-8% gains that failed); SUPER/AVNT/WCT overbought RSI 67-73 +10-24%; avoid chasing per rules and recent losses."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "time": "2026-01-02T19:52:54.754464+00:00",
+  "type": "sell_decision",
+  "data": {
+    "BTC-USDC": {
+      "action": "HOLD",
+      "reason": "P&L at +3.0%, below 8% profit target. No TradingView SELL/STRONG_SELL signal provided. Position within acceptable range for 1-5 day development."
+    },
+    "ADA-USDC": {
+      "action": "SELL",
+      "product_id": "ADA-USDC",
+      "base_size": "0.006286",
+      "reason": "P&L at +11.7% exceeds 8% profit target threshold. Lock in gains."
+    },
+    "XAN-USDC": {
+      "action": "HOLD",
+      "reason": "P&L at -1.6%, above -5% stop loss threshold. No TradingView SELL signal provided. Hold for recovery potential."
+    }
+  }
+}

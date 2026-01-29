@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-26T20:30:16.167110+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "product_id": null,
+    "quote_size": "0.00",
+    "reason": "No ideal setup found. All candidates show critical flaws: ZEC (+11.0%, RSI 64.1) is overbought and chasing gains >15% threshold; ALGO (RSI 60.2, MACD flat at 0.00/-0.00) lacks bullish MACD confirmation; JTO (RSI 55.7, MACD near-zero) has weak momentum despite +8.8% gain; VVV (+11.2%, RSI 63.7, VW-RSI 79.5) is overbought and chasing. Recent losses show TIER 1 setups (RSI 50-60, +3-5% gains) failed repeatedly\u2014pattern suggests market conditions unfavorable for this strategy. BTC neutral (+1.50%) provides no relative strength edge. Better to preserve capital than force a weak trade."
+  }
+}

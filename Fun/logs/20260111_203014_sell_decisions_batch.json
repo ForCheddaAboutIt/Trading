@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-11T20:30:14.186969+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "SELL",
+      "product_id": "AKT-USDC",
+      "base_size": "50.24",
+      "reason": "ATR stop violated (0.49 < 0.4749 stop zone already triggered), trade now -3.4% with 1H SELL / RSI<50 and setup tagged to a pattern class that recently produced multiple LOSSES; exiting aligns with cutting losers quickly and avoiding repeating losing Tier 1 logic rather than hoping for a rebound."
+    }
+  ]
+}

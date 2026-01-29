@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-02T21:27:56.779058+00:00",
+  "type": "sell_decision",
+  "data": {
+    "action": "HOLD",
+    "product_id": "XAN-USDC",
+    "base_size": "267.4",
+    "reason": "Entry just executed (0% P&L), RSI neutral at 55.1, but bearish sentiment prevails. CoinCodex forecasts -25.92% decline by Feb 1 with Stoch RSI at 98.52 (SELL signal). Wait for clearer directional confirmation before exit."
+  }
+}

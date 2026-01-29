@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-10T01:30:19.116131+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "No candidate cleanly matches prior WON Tier 1/Tier 2 profiles while also respecting risk rules: GMT gain 26.5% and RSI 64.6 \u2192 chasing (gain >15% disallowed); POL gain 14.2% and RSI 70.1 \u2192 extended and RSI >70, unlike prior POL win which had RSI ~55 and lower daily gain; RENDER RSI 54.7 but MACD line (0.06) < signal (0.07), so no bullish confirmation; STX RSI 62.5 with only BUY (not STRONG_BUY) and MACD flat, closer to LOSING high-RSI setups; ATOM RSI 61.2 and gain 6.9% (Tier 2-like) but 1H only BUY and VW-RSI 76.9 indicates overbought risk. With BTC neutral and no setup clearly mirroring successful POL/IRYS/AAVE patterns, capital is better preserved by not forcing a trade."
+  }
+}

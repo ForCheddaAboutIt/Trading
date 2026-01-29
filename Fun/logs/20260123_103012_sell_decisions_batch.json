@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-23T10:30:12.922311+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "SELL",
+      "product_id": "ACH-USDC",
+      "base_size": "1683.3",
+      "reason": "ATR Stop breach: Current $0.012015 < Stop $0.0118. RSI 39.3 (oversold, momentum broken). 1H/4H both SELL signals. Entry thesis invalidated\u2014no recovery confirmation despite -1.74% loss. Cut losses to preserve capital per risk management protocol."
+    }
+  ]
+}

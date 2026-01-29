@@ -1,0 +1,24 @@
+{
+  "time": "2026-01-04T05:30:19.415548+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "SELL",
+      "product_id": "STX-USDC",
+      "base_size": "36.96",
+      "reason": "Profit target >5% (+9.9%), RSI 80.6 overbought (not PARABOLIC as RSI>80 exceeds 65-80 range), matches WON RENDER strategy but momentum risks pullback per sources[1][2]; current 0.3304 > ATR_STOP 0.3230 but SELL per rules"
+    },
+    {
+      "action": "HOLD",
+      "product_id": "USELESS-USDC",
+      "base_size": "41.9",
+      "reason": "P&L +2.0% <5%, Price 0.1023 > ATR Stop 0.095 & SL 0.095, 1H:BUY/4H:BUY, RSI:55.8 not overbought, BTC bullish +1.76%, repeat WON strategy logic"
+    },
+    {
+      "action": "HOLD",
+      "product_id": "AAVE-USDC",
+      "base_size": "0.051",
+      "reason": "P&L +2.0% <5% (normal holding); Current $163.25 > ATR_STOP $161.49; 1H:BUY/4H:BUY, RSI:59.8 (bullish technicals align with recent WON strategy); Analysts predict 14-17% upside to $179-$183[1][3] with key resistance break at $165 upcoming."
+    }
+  ]
+}

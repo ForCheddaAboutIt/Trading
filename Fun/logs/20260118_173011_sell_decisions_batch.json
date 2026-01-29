@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-18T17:30:11.210440+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "ZRO-USDC",
+      "base_size": "12.4",
+      "reason": "Position -0.63% (within normal swing range <5%). RSI 53.5 remains in ideal 50-60 sweet spot matching WON AERO/ROSE pattern. Price $1.723 > ATR Stop $1.6996 (stop intact). 1H neutral/4H buy confirms no trend break. BTC neutral (-0.19%) removes headwind. Capital allocation 80% per TIER 1 protocol. Avoid LOST trap logic (RSI >60 or chasing >15% gains). Hold as long as technicals support and price respects ATR stop."
+    }
+  ]
+}

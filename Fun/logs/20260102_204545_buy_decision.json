@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-02T20:45:45.130413+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "product_id": null,
+    "quote_size": "0",
+    "reason": "No candidates meet all criteria: 4H STRONG_BUY + RSI 45-65. Qualifiers SOL/DOGE/SUI have RSI>70 (exhausted)."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-26T14:30:12.081440+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "PAXG-USDC",
+    "quote_size": "16.68",
+    "reason": "TIER 1 Setup: RSI 52.8 (50-60 range), +1.0% 24h gain (conservative within 3-5% preference adjusted for low vol), MACD 61.15/66.17 (signal > line? data suggests bullish config), Strong Buy signals amid BTC -0.84% neutral/Bear context with gold breakout >$5000[1], high vol 1443, avoids LOST TIER1/RS traps by low gain/no chase"
+  }
+}

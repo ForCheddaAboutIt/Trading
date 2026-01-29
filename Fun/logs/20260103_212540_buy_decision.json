@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-03T21:25:40.643828+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "USELESS-USDC",
+    "quote_size": "4.26",
+    "reason": "BTC Neutral (not bearish). USELESS-USDC has Strong Buy 4H implied by 1H:BUY, VW-RSI 35.9 <60 (not overbought), highest % gain +8.2%. No past trades so no negative expectancy. Size: 50% of 8.52 capital."
+  }
+}

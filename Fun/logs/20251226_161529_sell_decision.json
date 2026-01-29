@@ -1,0 +1,10 @@
+{
+  "time": "2025-12-26T16:15:29.500525+00:00",
+  "type": "sell_decision",
+  "data": {
+    "action": "SELL",
+    "product_id": "ALEPH-USDC",
+    "base_size": "229.3",
+    "reason": "Stop loss triggered: P&L -7.5% exceeds 5% threshold from entry price of 0.0412."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-03T22:40:45.700555+00:00",
+  "type": "sell_decision",
+  "data": {
+    "action": "HOLD",
+    "product_id": "",
+    "base_size": "0",
+    "reason": "P&L +1.3% to +1.4% (no profit >+8%, no RSI>75), BTC neutral +0.69%, no stops hit (current AAVE 162.12 > ATR_STOP 160.25 > hard stop 152), positive expectancy, BUY signals, bullish short-term predictions to $177-183[1][2]"
+  }
+}

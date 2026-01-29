@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-22T06:30:12.011524+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "ACH-USDC",
+      "base_size": "1683.3",
+      "reason": "P&L +2.3% below 5% profit target. RSI 52.4 in ideal 50-60 zone (matching winning ROSE-USDC pattern). 1H/4H both BUY signals with bullish MACD. Price $0.012514 > ATR Stop $0.0121. Technicals support continuation. Analyst consensus bullish for 2026 with forecasts ranging $0.0127-$0.0156 average. Hold per TIER 1 Setup rules while trend intact."
+    }
+  ]
+}

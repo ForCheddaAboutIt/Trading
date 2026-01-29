@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-21T17:30:14.834930+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "ACH-USDC",
+      "base_size": "1683.3",
+      "reason": "Position +0.53% within normal holding range (<5% profit target). Price $0.012293 above ATR stop $0.0118. RSI 52.1 in ideal 50-60 zone matching winning ROSE-USDC pattern. 1H STRONG_BUY and 4H BUY confirm trend intact. BTC -1.90% (not panic -2% threshold) and ACH showing positive decoupling. Technicals support continuation; hold through next momentum phase."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-12T15:30:15.329248+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "AERO-USDC",
+    "quote_size": "24.98",
+    "reason": "TIER 1 Setup: RSI 56.4 (50-60 range), Gain 3.2% (3-5%), High Vol, MACD flat bullish, 1H BUY with BTC neutral/stable matching WON AERO-USDC (6.4%) and prior WON TIER 2 momentum patterns; avoids LOST high-RSI/chasing setups like SOL/STX/AKT."
+  }
+}

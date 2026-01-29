@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-09T00:30:11.501056+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "FET-USDC",
+      "base_size": "91.7",
+      "reason": "P&L is -1.2% (no panic exit), price is above ATR stop (0.2837 > 0.2717), profit target not reached, and 1H/4H trend still BUY with mid-range RSI ~53; aligns with Tier 1 WON-style swing logic and avoids reactive exits seen in recent LOST trades."
+    }
+  ]
+}

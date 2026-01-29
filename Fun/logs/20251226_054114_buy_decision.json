@@ -1,0 +1,10 @@
+{
+  "time": "2025-12-26T05:41:14.150409+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "YB-USDC",
+    "quote_size": "4.88",
+    "reason": "YB-USDC in target 8-15% daily (+14.8%), 1H +14.8%>3%, 4H +11.7%>2%; strongest aligned momentum in priority range vs higher-risk pumps like ALEPH/VOXEL/FLOCK."
+  }
+}

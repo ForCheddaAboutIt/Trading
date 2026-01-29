@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-11T15:30:19.685399+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "No candidate matches the proven WON Tier 1/Tier 2 patterns under current rules. HYPER and VVV have excessive 24h gains (>15%) or RSI too high/overbought (RSI 70.4 for VVV), violating the AVOID rule. BCH has low 24h change (+2.0%), failing the volatility preference. AKT is closest to Tier 1 (RSI 55.7, gain +3.7%) but MACD is not clearly > signal (0.02/0.02), so it lacks bullish confirmation. CHZ is a Tier 2-style move (RSI 52.5 but gain +5.4%) with flat MACD (0.00/0.00), closer to the SOL and FET losing high-momentum setups. To mimic the POL/IRYS winning setups, we require clear MACD bullish confirmation plus clean Tier 1 or Tier 2 RSI/gain alignment, which is not present. Best action is to stay in cash and wait for a higher-quality setup."
+  }
+}

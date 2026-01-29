@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-20T19:30:12.076136+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "BTC dropping -4.01% (> -2% threshold, bearish market). No candidates show Relative Strength (AXS +26.4% but RSI 58.6 with VW-RSI 66.7 edges TIER 2 hot but exceeds gain >15% avoid chasing; PAXG/ZRO low gains <3%, overbought RSI). Avoids LOST TIER 1 patterns like ZRO/BERA/SAND."
+  }
+}

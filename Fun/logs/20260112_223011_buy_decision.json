@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-12T22:30:11.128132+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "No candidate matches WON strategies (e.g., TIER 2 with BTC stable/u... or momentum <5%): KAITO/PAXG Tier 2 but gains 13.9%/1.5% exceed TIER 2 (>5%) limits and mimic LOST high-momentum/Tier1; IP overbought RSI 72.3>70, gain 27.8%>15% (AVOID). BTC neutral, no perfect setup."
+  }
+}

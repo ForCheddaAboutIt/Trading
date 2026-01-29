@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-08T17:30:13.250191+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "POL-USDC",
+      "base_size": "199.61",
+      "reason": "P&L +3.6% is below 5% target, BTC is neutral (no panic rule), price is above ATR stop, and technicals remain bullish (1H BUY, 4H STRONG_BUY, RSI 62.1) consistent with prior WON Tier 1 strategy logic; no LOST-style chase or degraded setup detected."
+    }
+  ]
+}

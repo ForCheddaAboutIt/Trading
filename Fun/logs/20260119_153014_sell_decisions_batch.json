@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-19T15:30:14.530392+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "SELL",
+      "product_id": "ROSE-USDC",
+      "base_size": "1402.3",
+      "reason": "Profit target exceeded >5% at +19.6%; technicals 1H:BUY/4H:STRONG_BUY and RSI 62.3 not parabolic (requires RSI 65-80, volume spiking, trend accelerating); BTC -2.36% bearish adds risk; mirrors WON ROSE strategy by taking profits after strong gain."
+    }
+  ]
+}

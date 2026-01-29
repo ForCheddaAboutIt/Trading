@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-02T21:46:57.001236+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "product_id": "",
+    "quote_size": "0.00",
+    "reason": "No candidates meet Strong Buy 4H criteria (all listed as 1H:BUY or STRONG_BUY); all VW-RSI >=69.2 (overbought, prefer <60); no past trades for expectancy check; BTC bullish but rules require Strong Buy 4H pick."
+  }
+}

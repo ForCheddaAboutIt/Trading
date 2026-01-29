@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-27T07:30:18.583001+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "No candidates meet strict criteria: All have RSI >60 (avoid TIER 2+ per rules and recent LOST TIER 1/2 trades); PROMPT/LIGHTER exceed Gain >15% (chasing risk); no clear MACD Line > Signal Line across all (e.g. BNB negative); BTC neutral, no relative strength exception; prioritize patience to avoid repeating LOST strategies."
+  }
+}

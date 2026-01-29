@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-04T15:30:11.346149+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "AAVE-USDC",
+      "base_size": "0.051",
+      "reason": "P&L +3.2% <5% (normal holding); Current $165.22 > ATR_STOP $163.23; 1H:BUY/4H:BUY confirms uptrend; RSI 66 (not overbought per recent WON strategies VW-RSI 35-40 'room to grow', similar to RSI 66 with room vs >70); repeats WON logic of holding strong buy signals not overbought."
+    }
+  ]
+}

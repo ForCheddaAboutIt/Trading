@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-25T08:30:13.155453+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "BTC -1.03% dip requires relative strength exception (alt outperforming significantly); no candidate shows perfect tiered confirmation without TIER 1 RSI 50-60 + 3-5% gain or avoiding recent LOST TIER 1 patterns (e.g., KTA close but RSI 58 with BTC dip; others TIER 2+ with high RSI/gains >5% or chasing like WCT +25.9%). Patience critical per rules."
+  }
+}

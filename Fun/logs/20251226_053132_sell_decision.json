@@ -1,0 +1,10 @@
+{
+  "time": "2025-12-26T05:31:32.224288+00:00",
+  "type": "sell_decision",
+  "data": {
+    "action": "SELL",
+    "product_id": "ALEPH-USDC",
+    "base_size": "229.3",
+    "reason": "STOP LOSS: ALEPH-USDC is down 3.2% (pnl_pct: -3.155%) from entry price of 0.0412, exceeding the 5% stop loss threshold."
+  }
+}

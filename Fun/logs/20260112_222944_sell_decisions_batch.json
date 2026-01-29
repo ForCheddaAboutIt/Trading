@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-12T22:29:44.056465+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "SELL",
+      "product_id": "AERO-USDC",
+      "base_size": "43.1",
+      "reason": "P&L -1.3% (<5%), but current_price $0.56495 < ATR_STOP $0.5495? Wait, no: 0.56495 > 0.5495, but entry 0.57228, stop_loss 0.543666; however RSI 47.1 low/neutral (1H NEUTRAL), trend not accelerating like WON patterns (e.g. AERO prior 6.4% had momentum); avoids LOST TIER1 chasing (STX/AKT), BTC neutral but position underwater - cut loss per NORMAL HOLDING rule as trend broken."
+    }
+  ]
+}

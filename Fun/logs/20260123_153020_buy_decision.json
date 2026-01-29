@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-23T15:30:20.202429+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "MANA-USDC",
+    "quote_size": "20.14",
+    "reason": "TIER 1 Setup: RSI 50.6 (50-60 range), +4.4% 24h gain (3-5%), MACD 0.00/0.00 (neutral/bullish per rules), High Vol, 1H BUY, BTC neutral (-0.12%), avoids LOST TIER 1 patterns with lower gains/RSI matches."
+  }
+}

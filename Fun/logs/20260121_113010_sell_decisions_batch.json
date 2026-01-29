@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-21T11:30:10.431642+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "SELL",
+      "product_id": "ACH-USDC",
+      "base_size": "20.83",
+      "reason": "PANIC EXIT triggered: BTC 24h -2.16% (<-2%) and position P&L -0.8% (negative). Current price $0.012134 > ATR stop $0.0117, but rule mandates immediate SELL."
+    }
+  ]
+}

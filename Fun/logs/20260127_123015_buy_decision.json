@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-27T12:30:15.235964+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "No candidates meet strict criteria without repeating LOST TIER 1 strategies (e.g., PROMPT/AKT RSI 50-60 + high gain failed recently); all have high gains >7% (chasing risk), many RSI near/above 70 or VW-RSI >75 (overbought), MACD not clearly bullish crossover; BTC neutral, no relative strength exception; prioritize patience per rules."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-08T23:30:15.690100+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "SELL",
+      "product_id": "POL-USDC",
+      "base_size": "199.61",
+      "reason": "Profit target hit at +6.3% with RSI 62.1 (not yet parabolic), BTC neutral, ATR stop not violated but rules say default SELL >5% unless clear parabolic extension\u2014locking in gains consistent with WON Tier 1 strategy and avoiding recent LOST over-holding behavior."
+    }
+  ]
+}

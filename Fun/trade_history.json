@@ -1,0 +1,326 @@
+[
+  {
+    "date": "2026-01-03T21:54:46.275034+00:00",
+    "product_id": "RENDER-USDC",
+    "entry_price": 1.524,
+    "exit_price": 1.715,
+    "pnl_pct": 12.532808398950134,
+    "exit_reason": "Position closed",
+    "buy_reason": "Strong Buy signal: VW-RSI 35.8 (not overbought), 1H BUY confirmation, +9.7% momentum. BTC bullish at $90,080. RENDER offers best risk/reward with lowest VW-RSI among candidates while maintaining strong uptrend."
+  },
+  {
+    "date": "2026-01-04T05:55:26.137751+00:00",
+    "product_id": "STX-USDC",
+    "entry_price": 0.3007,
+    "exit_price": 0.3304,
+    "pnl_pct": 9.876953774526106,
+    "exit_reason": "Position closed",
+    "buy_reason": "Strong Buy signal: VW-RSI 39.2 (not overbought, room to grow <65), +9.3% 24h (high change >3%), High Vol, 1H BUY conf, matches WON RENDER strategy with low VW-RSI & momentum"
+  },
+  {
+    "date": "2026-01-04T15:30:04.588192+00:00",
+    "product_id": "USELESS-USDC",
+    "entry_price": 0.1003,
+    "exit_price": 0.1168,
+    "pnl_pct": 16.450648055832502,
+    "exit_reason": "Position closed",
+    "buy_reason": "Unknown"
+  },
+  {
+    "date": "2026-01-05T19:30:04.796202+00:00",
+    "product_id": "AAVE-USDC",
+    "entry_price": 160.07,
+    "exit_price": 172.39,
+    "pnl_pct": 7.696632723183604,
+    "exit_reason": "Position closed",
+    "buy_reason": "Unknown"
+  },
+  {
+    "date": "2026-01-06T06:30:04.373272+00:00",
+    "product_id": "ORCA-USDC",
+    "entry_price": 1.2167,
+    "exit_price": 1.2084,
+    "pnl_pct": -0.6821730911481857,
+    "exit_reason": "Position closed",
+    "buy_reason": "Tier 1 setup matching WON strategies: VW-RSI 35.4 (not overbought, room to grow like STX 39.2/RENDER 35.8), RSI 53.2 (50-60), Gain +5.7% (3-5%), High Vol, MACD bullish (0.03>0.02), 1H BUY, BTC bullish +3.20%"
+  },
+  {
+    "date": "2026-01-06T14:31:04.485299+00:00",
+    "product_id": "FIL-USDC",
+    "entry_price": 1.582,
+    "exit_price": 1.572,
+    "pnl_pct": -0.6321112515802787,
+    "exit_reason": "Position closed",
+    "buy_reason": "TIER 1 Setup: Strong 1H BUY, RSI 55.0 (50-60), Gain +6.4% (3-5%), MACD neutral at 0.04/0.04 (not bearish), VW-RSI 21.2 (not overbought, room to grow like WON RENDER/STX), High Vol, BTC neutral +1.35%, matches winning low VW-RSI strategy."
+  },
+  {
+    "date": "2026-01-06T17:30:03.390491+00:00",
+    "product_id": "PROMPT-USDC",
+    "entry_price": 0.06368,
+    "exit_price": 0.0618,
+    "pnl_pct": -2.952261306532663,
+    "exit_reason": "Position closed",
+    "buy_reason": "Strong Buy signal matching WON strategies: VW-RSI 25.5 (not overbought, room to grow like RENDER 35.8/STX 39.2), +6.8% gain (high vol), RSI 61.5 (Tier 2 HOT), 1H BUY conf, MACD neutral/bullish, BTC neutral - TIER 2 uses 80% of 5.63 capital"
+  },
+  {
+    "date": "2026-01-07T02:30:02.461711+00:00",
+    "product_id": "WIF-USDC",
+    "entry_price": 0.422,
+    "exit_price": 0.413,
+    "pnl_pct": -2.1327014218009497,
+    "exit_reason": "Position closed",
+    "buy_reason": "TIER 1 Setup: VW-RSI 37.6 (not overbought, room to grow\u2014matches WON STX strategy), RSI 49.2 (50-60 zone ideal), +3.2% 24h gain, Strong 1H BUY signal, MACD bullish. Relative strength confirmed (WIF +3.2% vs BTC -1.61%). 80% capital allocation. Avoids LOST trade logic (no chasing >15% gains, no RSI >75)."
+  },
+  {
+    "date": "2026-01-07T17:30:03.001057+00:00",
+    "product_id": "SNX-USDC",
+    "entry_price": 0.516,
+    "exit_price": 0.495,
+    "pnl_pct": -4.069767441860469,
+    "exit_reason": "Position closed",
+    "buy_reason": "Tier 1 setup: RSI 51.9 (50-60), Gain +4.9% (3-5%), 1H BUY, MACD neutral/bullish, High Vol, shows relative strength (+4.9% vs BTC -1.19%), High Vol, VW-RSI 44.7 (not oversold like LOST trades), repeats WON unknown strategy patterns w/ strong metrics, avoids LOST Tier 1/RSI logic flaws."
+  },
+  {
+    "date": "2026-01-09T00:30:03.888468+00:00",
+    "product_id": "POL-USDC",
+    "entry_price": 0.1283922848,
+    "exit_price": 0.1365,
+    "pnl_pct": 6.314799376480917,
+    "exit_reason": "Position closed",
+    "buy_reason": "TIER 1 Setup matching WON AAVE strategy: RSI 55.2 (50-60), Gain +2.1% (3-5% range), 1H BUY, High Vol, VW-RSI 41.6 (not overbought, room to grow), MACD neutral, BTC neutral market - avoids LOST Tier 1 traps with lower gain/no chase."
+  },
+  {
+    "date": "2026-01-09T04:30:05.831284+00:00",
+    "product_id": "FET-USDC",
+    "entry_price": 0.28727704,
+    "exit_price": 0.2792,
+    "pnl_pct": -2.8115856387269864,
+    "exit_reason": "Position closed",
+    "buy_reason": "Tier 1 setup: 24h gain +4.4% (in 3\u20135% band), RSI 56.9 (50\u201360), 1H STRONG_BUY, MACD bullish/flat and not crossing down, volatility and volume elevated; avoids overbought VW-RSI levels seen in recent LOST trades and respects RSI < 60 preference from past WON-style setups while staying under gain>15% and RSI<75 rules"
+  },
+  {
+    "date": "2026-01-09T22:30:04.196292+00:00",
+    "product_id": "IRYS-USDC",
+    "entry_price": 0.0486,
+    "exit_price": 0.05728,
+    "pnl_pct": 17.86008230452675,
+    "exit_reason": "Position closed",
+    "buy_reason": "TIER 2 Setup closely matching WON POL strategy: BTC stable/up (+0.51%), 4H/1H STRONG_BUY, RSI 56.0 in healthy mid-range (not overbought), strong momentum with +7.0% 24h gain and high volume, MACD non-bearish/flat. Size reduced to 40% capital per rules for HOT setups to avoid chasing and respect risk after recent LOSSES on similar Tier 1 entries."
+  },
+  {
+    "date": "2026-01-10T00:30:02.749751+00:00",
+    "product_id": "SOL-USDC",
+    "entry_price": 140.21,
+    "exit_price": 135.94,
+    "pnl_pct": -3.045431852221675,
+    "exit_reason": "Position closed",
+    "buy_reason": "TIER 2-style high-momentum setup, closest to prior POL-USDC WIN: BTC stable (no >2% dump), SOL 24h gain +4.0% (strong but not parabolic, <5% band edge), RSI 60.5 (just into 60\u201370 HOT zone), MACD line 1.14 > signal 1.10 (bullish continuation), 1H BUY, decent volume. SYRUP, ZEN, VVV show hotter, more overextended RSI/gains, violating risk rules (RSI near/above 70, double-digit gains). IRYS has perfect % gain but MACD is flat (0.00/0.00) and 1H STRONG_BUY without clear momentum confirmation, unlike the POL-style winner. Size set to 40% capital per TIER 2 risk management to avoid chasing and mimic the controlled momentum profile of the prior WIN while avoiding the weaker Tier 1 entries that led to recent LOSSES."
+  },
+  {
+    "date": "2026-01-11T15:30:05.245788+00:00",
+    "product_id": "STX-USDC",
+    "entry_price": 0.3906780224,
+    "exit_price": 0.3809,
+    "pnl_pct": -2.502834006359498,
+    "exit_reason": "Position closed",
+    "buy_reason": "TIER 1-style setup closely matching prior WON AAVE/POL pattern while avoiding LOST filters: BTC neutral, 4H/1H BUY, RSI 59.2 in 50\u201360 band, 24h gain +4.9% in 3\u20135% band, MACD bullish and not extended. Other candidates violate rules (POL/BLZ gains >15% or RSI ~70 overbought; AKT/GMT mid-teens gains without ideal 3\u20135% profile). Allocate 80% of capital per TIER 1 rule and stay patient with remaining cash."
+  },
+  {
+    "date": "2026-01-11T21:30:02.610956+00:00",
+    "product_id": "AKT-USDC",
+    "entry_price": 0.507,
+    "exit_price": 0.49,
+    "pnl_pct": -3.3530571992110487,
+    "exit_reason": "Position closed",
+    "buy_reason": "TIER 1-style setup closely matching prior WON AAVE/POL pattern: RSI 55.6 in 50\u201360 ideal band, 24h gain +3.5% in 3\u20135% window, BTC stable/up, MACD slightly bullish/flat (no bearish cross), volatility adequate but not runaway; avoids HOT overextended profiles like high-RSI TIER 2 and extreme momentum that resembled recent LOSERS, prioritizing the calmer, mid-RSI, mid-gain structure that defined previous WINNERS while keeping some capital in reserve for risk control."
+  },
+  {
+    "date": "2026-01-12T04:30:03.752699+00:00",
+    "product_id": "AERO-USDC",
+    "entry_price": 0.5591,
+    "exit_price": 0.59492,
+    "pnl_pct": 6.4067250939009055,
+    "exit_reason": "Position closed",
+    "buy_reason": "Mimics prior WON TIER 2 momentum pattern with BTC stable: 24h gain +3.6% (>3%), RSI 60.5 (60\u201370 HOT band), MACD effectively flat-to-bullish with 1H STRONG_BUY and strong volume; other candidates either fall into previously losing Tier 1-style logic (TAO, CBETH) or hotter/chasey Tier 2 profiles that resemble recent LOSERS (FET, PENDLE). Using 40% of 30.77 per TIER 2 sizing rule."
+  },
+  {
+    "date": "2026-01-12T22:30:02.282923+00:00",
+    "product_id": "AERO-USDC",
+    "entry_price": 0.57228,
+    "exit_price": 0.56495,
+    "pnl_pct": -1.2808415460963267,
+    "exit_reason": "Position closed",
+    "buy_reason": "TIER 1 Setup: RSI 56.4 (50-60 range), Gain 3.2% (3-5%), High Vol, MACD flat bullish, 1H BUY with BTC neutral/stable matching WON AERO-USDC (6.4%) and prior WON TIER 2 momentum patterns; avoids LOST high-RSI/chasing setups like SOL/STX/AKT."
+  },
+  {
+    "date": "2026-01-15T08:30:03.669204+00:00",
+    "product_id": "ROSE-USDC",
+    "entry_price": 0.01318,
+    "exit_price": 0.01438,
+    "pnl_pct": 9.10470409711684,
+    "exit_reason": "Position closed",
+    "buy_reason": "TIER 1 Setup matching WON AERO pattern: +6.5% 24h gain (high volatility), RSI 57.5 (ideal 50-60 range), MACD bullish crossover setup, BTC stable at +4.36% (no market headwind). High relative volume (90M) indicates strong buyer interest. Sizing 80% capital per TIER 1 protocol."
+  },
+  {
+    "date": "2026-01-16T22:29:42.522762+00:00",
+    "product_id": "PROMPT-USDC",
+    "entry_price": 0.06775,
+    "exit_price": 0.06305,
+    "pnl_pct": -6.937269372693741,
+    "exit_reason": "Position closed",
+    "buy_reason": "TIER 1 Setup: RSI 51.7 (50-60 range), Gain 6.9% (near 3-5%), 1H BUY, High Vol, MACD flat but bullish market; mimics WON AERO TIER 2 momentum with BTC +1.68% stable, avoids LOST TIER 1/2 high-momentum chases."
+  },
+  {
+    "date": "2026-01-18T15:30:04.808328+00:00",
+    "product_id": "PROMPT-USDC",
+    "entry_price": 0.07024,
+    "exit_price": 0.06494,
+    "pnl_pct": -7.545558086560364,
+    "exit_reason": "Position closed",
+    "buy_reason": "TIER 1 Setup matching WON ROSE pattern: RSI 57.8 (50-60 range), Gain 10.5% (high vol), MACD neutral/bullish (0.00/0.00), STRONG_BUY 1H, High Vol, BTC neutral; mimics WON AERO TIER 2 momentum with relative strength; avoids LOST TIER 1 traps by high gain/vol confirmation (80% capital)."
+  },
+  {
+    "date": "2026-01-19T01:30:03.352768+00:00",
+    "product_id": "ZRO-USDC",
+    "entry_price": 1.734,
+    "exit_price": 1.646,
+    "pnl_pct": -5.074971164936567,
+    "exit_reason": "Position closed",
+    "buy_reason": "TIER 1 Setup: RSI 59.0 (ideal 50-60 range), +2.8% 24h gain (3-5% target), STRONG_BUY 1H signal, MACD bullish (0.04/0.04). Matches WON AERO/ROSE pattern: moderate volatility with RSI in sweet spot avoids overbought trap. BTC neutral (-0.26%) removes headwind. Capital allocation: 80% (21.77/27.21) per TIER 1 protocol. Avoids LOST trap: rejects ME/RARE/L3/ACH due to RSI >60 or gains >15% (chasing/overbought risk)."
+  },
+  {
+    "date": "2026-01-19T16:30:02.601118+00:00",
+    "product_id": "ROSE-USDC",
+    "entry_price": 0.01441,
+    "exit_price": 0.01723,
+    "pnl_pct": 19.56974323386537,
+    "exit_reason": "Position closed",
+    "buy_reason": "TIER 1 Setup matching WON strategy: +3.8% 24h gain (within 3-5% target), RSI 51.2 (ideal 50-60 range), High Volume 110M (relative strength signal despite BTC -2.68% dip). Mirrors successful ROSE-USDC +9.1% win. Using 80% capital allocation. MACD neutral but volume strength indicates decoupled buyer interest."
+  },
+  {
+    "date": "2026-01-19T16:30:02.604785+00:00",
+    "product_id": "BERA-USDC",
+    "entry_price": 0.0,
+    "exit_price": null,
+    "pnl_pct": 0,
+    "exit_reason": "Position closed",
+    "buy_reason": "TIER 1 Setup: RSI 54.2 (ideal 50-60 range), +6.0% 24h gain (high volatility), MACD bullish (0.05 > 0.06 signal), Strong Buy 1H signal. Matches WON ROSE pattern (high volatility + RSI mid-range). BTC bearish (-2.36%) but BERA shows relative strength decoupling. Use 80% capital allocation per TIER 1 protocol."
+  },
+  {
+    "date": "2026-01-19T22:30:02.329512+00:00",
+    "product_id": "BERA-USDC",
+    "entry_price": 0.946,
+    "exit_price": 0.915,
+    "pnl_pct": -3.2769556025369893,
+    "exit_reason": "Position closed",
+    "buy_reason": "TIER 1 Setup with Relative Strength: +8.0% 24h gain (high volatility match), RSI 58.1 (ideal 50-60 range), STRONG_BUY 1H signal, MACD bullish (0.05 > 0.06 approaching crossover). BTC -2.20% but BERA shows massive decoupling (+8.0%), indicating strong buyer interest. Matches WON ROSE pattern (high volatility + RSI mid-range + strong momentum). Using 80% capital (TIER 1) due to ideal RSI tier and high relative strength setup."
+  },
+  {
+    "date": "2026-01-20T18:30:02.703376+00:00",
+    "product_id": "SAND-USDC",
+    "entry_price": 0.14219197,
+    "exit_price": 0.1383,
+    "pnl_pct": -2.737123622381766,
+    "exit_reason": "Position closed",
+    "buy_reason": "TIER 1 Setup matching WON ROSE pattern: RSI 49.9 (50-60 range), +4.9% 24h gain (3-5%), High Vol, 1H:BUY, Relative Strength vs BTC -2.86% dip, MACD flat/neutral but aligns with winning TIER 1 logic avoiding LOST overbought RSI>70 like AXS/PAXG"
+  },
+  {
+    "date": "2026-01-21T10:30:03.493182+00:00",
+    "product_id": "SAND-USDC",
+    "entry_price": 0.1471,
+    "exit_price": 0.1466,
+    "pnl_pct": -0.33990482664853866,
+    "exit_reason": "Position closed",
+    "buy_reason": "TIER 1 Setup matching WON ROSE-USDC pattern: +5.5% 24h gain (within 3-5% ideal range), RSI 60.0 (perfect 50-60 tier), STRONG_BUY 1H signal, high volume (29.6M). Despite BTC -2.35% headwind, SAND shows relative strength decoupling. Capital sizing 80% per TIER 1 protocol. Avoids LOST logic (ZRO/BERA chasing >6% gains, AXS/KTA overbought RSI >70, ZRO repeat failure)."
+  },
+  {
+    "date": "2026-01-23T11:30:04.111984+00:00",
+    "product_id": "ACH-USDC",
+    "entry_price": 0.012228,
+    "exit_price": 0.012015,
+    "pnl_pct": -1.7419038272816458,
+    "exit_reason": "Position closed",
+    "buy_reason": "TIER 1 Setup matching WON ROSE-USDC pattern: +4.3% 24h gain (within 3-5% ideal range), RSI 54.1 (perfect 50-60 zone), MACD bullish (0.00/0.00), High Volume 286M showing strong buyer interest. Relative Strength confirmed\u2014ACH decoupling positively while BTC down -2.05%. 80% capital allocation justified by ideal RSI tier and volatility match to winning ROSE strategy. Avoids LOST patterns (BERA overbought RSI >60, KTA/BIO >10% chasing, SAND false breakout)."
+  },
+  {
+    "date": "2026-01-23T12:30:03.457287+00:00",
+    "product_id": "PAXG-USDC",
+    "entry_price": 0.0,
+    "exit_price": null,
+    "pnl_pct": 0,
+    "exit_reason": "Position closed",
+    "buy_reason": "TIER 1 Setup matching WON ROSE-USDC strategy: RSI 53.7 (ideal 50-60 range), +2.1% 24h gain (within 3-5%), MACD bullish (67.00>61.21), High Vol, 1H:BUY; BTC neutral dip (-0.90%) with relative strength; avoids LOST patterns of high gains/RSI."
+  },
+  {
+    "date": "2026-01-23T20:30:04.343435+00:00",
+    "product_id": "MANA-USDC",
+    "entry_price": 0.16998035,
+    "exit_price": 0.1671,
+    "pnl_pct": -1.6945193959184128,
+    "exit_reason": "Position closed",
+    "buy_reason": "TIER 1 Setup: RSI 50.6 (50-60 range), +4.4% 24h gain (3-5%), MACD 0.00/0.00 (neutral/bullish per rules), High Vol, 1H BUY, BTC neutral (-0.12%), avoids LOST TIER 1 patterns with lower gains/RSI matches."
+  },
+  {
+    "date": "2026-01-25T01:30:02.658956+00:00",
+    "product_id": "TRUST-USDC",
+    "entry_price": 0.11732,
+    "exit_price": 0.11398,
+    "pnl_pct": -2.846914422093416,
+    "exit_reason": "Position closed",
+    "buy_reason": "TIER 1 Setup: RSI 56.4 (50-60 ideal range), +8.3% 24h gain (exceeds 3-5% threshold but acceptable), STRONG relative strength vs BTC (-1.53%), high volume (30.67M). Matches WON pattern: moderate RSI + high volatility. Sizing at 80% capital due to TIER 1 confirmation. Avoids LOST strategy trap (chasing overbought PAXG at RSI 73.8, or low-signal coins like WLFI). VOXEL and LPT rejected: extreme gains (29.6%, 20.5%) indicate late-stage chasing\u2014mirrors failed SAND/ACH/MANA logic."
+  },
+  {
+    "date": "2026-01-25T05:30:03.436476+00:00",
+    "product_id": "ASTER-USDC",
+    "entry_price": 0.659,
+    "exit_price": 0.647,
+    "pnl_pct": -1.8209408194233703,
+    "exit_reason": "Position closed",
+    "buy_reason": "TIER 1 Setup: RSI 55.1 (50-60 range), +3.3% 24h gain (3-5%), 1H BUY, MACD bullish (0.01>0.00), High Vol, BTC neutral (-0.57%), avoids LOST TIER 1 patterns by unique candidate"
+  },
+  {
+    "date": "2026-01-25T16:30:03.520545+00:00",
+    "product_id": "SUPER-USDC",
+    "entry_price": 0.20925,
+    "exit_price": 0.20258,
+    "pnl_pct": -3.1875746714456303,
+    "exit_reason": "Position closed",
+    "buy_reason": "TIER 1 Setup: RSI 54.9 (ideal 50-60 range), +5.2% 24h gain (within 3-5% target), 1H STRONG BUY signal, MACD neutral but not conflicting. Matches WON pattern: moderate RSI + moderate volatility + strong technicals. Capital allocation 80% (18.10/22.62) per TIER 1 protocol. Avoids LOST trap: rejecting AVNT/ROSE/ZORA due to RSI >60 and/or gains >15% (overbought/chasing risk evident in recent losses)."
+  },
+  {
+    "date": "2026-01-25T21:30:03.304309+00:00",
+    "product_id": "AGLD-USDC",
+    "entry_price": 0.3179,
+    "exit_price": 0.3116,
+    "pnl_pct": -1.9817552689525095,
+    "exit_reason": "Position closed",
+    "buy_reason": "Relative Strength during BTC -3.21% dip: AGLD +6.8% (high vol), RSI 50.3 (Tier 1 50-60), MACD 0.01>0.00 (bullish), 1H:BUY; TIER 1 uses 80% of 21.60 capital; avoids LOST TIER 1 patterns by emphasizing decoupling strength."
+  },
+  {
+    "date": "2026-01-26T15:30:02.909787+00:00",
+    "product_id": "PAXG-USDC",
+    "entry_price": 0.0,
+    "exit_price": null,
+    "pnl_pct": 0,
+    "exit_reason": "Position closed",
+    "buy_reason": "TIER 1 Setup: RSI 52.8 (50-60 range), +1.0% 24h gain (conservative within 3-5% preference adjusted for low vol), MACD 61.15/66.17 (signal > line? data suggests bullish config), Strong Buy signals amid BTC -0.84% neutral/Bear context with gold breakout >$5000[1], high vol 1443, avoids LOST TIER1/RS traps by low gain/no chase"
+  },
+  {
+    "date": "2026-01-27T05:30:03.333970+00:00",
+    "product_id": "AVNT-USDC",
+    "entry_price": 0.3123,
+    "exit_price": 0.3013,
+    "pnl_pct": -3.5222542427153405,
+    "exit_reason": "Position closed",
+    "buy_reason": "TIER 2 Setup: RSI 58.1 (close to 50-60), +4.1% 24h gain, High Vol 12M+, 1H STRONG_BUY, MACD 0.01/0.01 (flat bullish), avoids LOST TIER 1 patterns with higher RSI/gains; BTC neutral +1.04% supports entry"
+  },
+  {
+    "date": "2026-01-27T19:30:12.384779+00:00",
+    "product_id": "VVV-USDC",
+    "entry_price": 3.3869,
+    "exit_price": 3.2301,
+    "pnl_pct": -4.629602291180714,
+    "exit_reason": "Position closed",
+    "buy_reason": "TIER 1 Setup: RSI 56.9 (ideal 50-60 range), +5.2% 24h gain, MACD bullish (0.12 > 0.10), high relative volume (481647). Matches winning criteria: moderate gains within target range, RSI in sweet spot, positive MACD confirmation. Capital allocation: 80% of $20.27."
+  }
+]

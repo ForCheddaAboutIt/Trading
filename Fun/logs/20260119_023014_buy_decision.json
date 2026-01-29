@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-19T02:30:14.239966+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "product_id": null,
+    "quote_size": "0.00",
+    "reason": "BTC -2.84% (hard drop, no buy per rule); PAXG lacks relative strength (+1.3% vs BTC dip insufficient decoupling); RSI 74.1 overbought (avoid >75 per criteria); no TIER 1/2 match and mismatches WON strategies (e.g. avoids LOST TIER 1 over-optimism)."
+  }
+}

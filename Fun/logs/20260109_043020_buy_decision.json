@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-09T04:30:20.108443+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "No candidate matches the successful POL TIER 1 pattern (RSI 50-60 with moderate 3-5% gain, strong 1H BUY, bullish MACD) while also satisfying current rules: IRYS & MAGIC have ideal RSI but are HOT (>5% gain, 8.1% & 7.7%) with flat MACD and only 1H BUY (not STRONG_BUY), which resembles recent LOST chases; SYRUP, ZEN, and POL are all high RSI (69-71) and HOT (>4-10% gain), falling into riskier TIER 2/overbought territory similar to losing setups and explicitly flagged to avoid when RSI nears/above 70 or gains >15%; to respect patience and avoid forcing trades, best action is to sit on cash and wait for a clean TIER 1 setup closely matching the prior POL win profile."
+  }
+}

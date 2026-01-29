@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-20T16:30:10.874900+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "SAND-USDC",
+    "quote_size": "22.15",
+    "reason": "TIER 1 Setup matching WON ROSE pattern: RSI 49.9 (50-60 range), +4.9% 24h gain (3-5%), High Vol, 1H:BUY, Relative Strength vs BTC -2.86% dip, MACD flat/neutral but aligns with winning TIER 1 logic avoiding LOST overbought RSI>70 like AXS/PAXG"
+  }
+}

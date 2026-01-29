@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-09T07:30:13.817251+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "IRYS-USDC",
+      "base_size": "261",
+      "reason": "PnL +0.8% < 5% target, BTC stable/up (+0.89%), ATR stop 0.0467 below current 0.04897, 1H STRONG_BUY & 4H BUY with RSI 57.2 matching prior WON mid-range momentum setups; no sell triggers hit so continue Tier 2 swing per plan."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-27T16:30:19.335272+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "VVV-USDC",
+    "quote_size": "16.22",
+    "reason": "TIER 1 Setup: RSI 56.9 (ideal 50-60 range), +5.2% 24h gain, MACD bullish (0.12 > 0.10), high relative volume (481647). Matches winning criteria: moderate gains within target range, RSI in sweet spot, positive MACD confirmation. Capital allocation: 80% of $20.27."
+  }
+}

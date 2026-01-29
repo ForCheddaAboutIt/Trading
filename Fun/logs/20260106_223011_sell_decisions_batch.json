@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-06T22:30:11.379597+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "WIF-USDC",
+      "base_size": "65.21",
+      "reason": "P&L +0.5% <5% (normal holding); Current $0.424 > ATR stop $0.3929; 1H:BUY/4H:BUY, RSI 49.5 (neutral, room to grow like WON strategies); Matches TIER 1 WON logic (VW-RSI ~38 not overbought); BTC neutral -0.79%, no panic (-2% threshold). Whale accumulation supports bounce to $0.38[1][6]."
+    }
+  ]
+}

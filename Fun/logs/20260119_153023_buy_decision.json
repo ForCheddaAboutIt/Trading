@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-19T15:30:23.976762+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "BERA-USDC",
+    "quote_size": "23.25",
+    "reason": "TIER 1 Setup: RSI 54.2 (ideal 50-60 range), +6.0% 24h gain (high volatility), MACD bullish (0.05 > 0.06 signal), Strong Buy 1H signal. Matches WON ROSE pattern (high volatility + RSI mid-range). BTC bearish (-2.36%) but BERA shows relative strength decoupling. Use 80% capital allocation per TIER 1 protocol."
+  }
+}

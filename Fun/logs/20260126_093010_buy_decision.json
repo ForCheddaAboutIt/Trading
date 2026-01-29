@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-26T09:30:10.065205+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "No candidates meet criteria: PAXG lacks Strong Buy on 4H (only 1H), 24h gain +1.4% <3%, MACD bearish (63.62<67.38); VVV RSI 72.0 (60-70 but overbought risk >70 per rules), 1H only BUY not Strong Buy on 4H. BTC neutral dip but no relative strength decoupling. Avoid TIER 1 traps from recent LOST trades."
+  }
+}

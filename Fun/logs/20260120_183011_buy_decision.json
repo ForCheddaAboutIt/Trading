@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-20T18:30:11.114661+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "BTC dropping -3.69% (> -2% threshold, bearish market). BIO-USDC shows relative strength (+2.8% vs BTC dip) but RSI 62.5 (Tier 2 range 60-70, not ideal 50-60 like WON ROSE), MACD flat at 0.00/0.00 (no bullish cross), 1H STRONG_BUY lacks 4H confirmation. PAXG overbought RSI 79.2 (>75 avoid). No perfect TIER 1 matching WON strategy; recent LOST trades on similar TIER 1/RSI 50-60 failed."
+  }
+}

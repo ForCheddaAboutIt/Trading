@@ -1,0 +1,8 @@
+{
+  "time": "2025-12-27T01:15:29.286456+00:00",
+  "type": "sell_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "BTC P&L +0.11% (below 8% profit), ADA P&L +1.04% (below 8% profit), XAN P&L -1.54% (above -5% stop loss). No positions meet profit target (8%+), stop loss (5%+ down), or other sell rules."
+  }
+}

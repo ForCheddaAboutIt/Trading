@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-11T06:30:12.249368+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "SELL",
+      "product_id": "STX-USDC",
+      "base_size": "67.5",
+      "reason": "PANIC EXIT rule: BTC flat but position is negative > -2% and price now below ATR stop (0.3809 < 0.3698 stop zone). 1H SELL signal, RSI dropped from entry-band 59.2 to 47.8, breaking the successful POL/AAVE-style Tier 1 pattern and matching conditions seen in recent LOST Tier 1 trades (SNX, FET). Cut loss and avoid repeating losing logic."
+    }
+  ]
+}

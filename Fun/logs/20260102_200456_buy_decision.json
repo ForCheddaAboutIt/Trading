@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-02T20:04:56.836435+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "SOL-USDC",
+    "quote_size": "4.88",
+    "reason": "SOL meets all criteria: STRONG_BUY on 4H, BUY on 1H, RSI 73.4 (within 40-70 optimal range, not overbought), +5.1% daily momentum (8-15% target). Only SOL avoids RSI >75 overbought levels while maintaining dual timeframe confirmation and healthy momentum."
+  }
+}

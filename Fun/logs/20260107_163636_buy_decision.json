@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-07T16:36:36.461134+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "No candidates meet criteria: SPK-USDC gain +15.8%>15% (chasing, avoid per rules), RSI 61.3 (Tier 2 but over gain limit); THQ-USDC gain +20.9%>15% (chasing), RSI 69.5 (Tier 2), VW-RSI 91.1 (overbought per [2]); BTC neutral but no Tier 1/2 without chasing; mimics WON by avoiding LOST Tier 1 traps."
+  }
+}

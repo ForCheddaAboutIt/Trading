@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-10T00:30:19.900387+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "No candidate matches winning POL/IRYS patterns within risk rules. BTC is neutral, but: SD lacks required 24h momentum (+1.6% <3%); GMT gain +22.4% violates rule to avoid Gain >15% (chasing); RENDER is closer to Tier 1 but RSI 54.6 with +7.7% puts it between tiers and MACD line < signal (0.06<0.07), failing MACD confirmation; POL and STX are Tier 2 RSI (60-70) with strong 24h gains but both are extended (POL +12%, STX +7.6%) with high VW-RSI 70+ suggesting late-entry risk vs prior POL/IRYS winners that were bought earlier in the move with more moderate extension. Forcing a trade here would repeat FET/SNX-style losses rather than IRYS/POL winners, so best to stay in cash and wait for a cleaner Tier 1 or controlled Tier 2 setup."
+  }
+}

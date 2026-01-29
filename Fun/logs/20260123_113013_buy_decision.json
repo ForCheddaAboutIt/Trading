@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-23T11:30:13.168925+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "PAXG-USDC",
+    "quote_size": "20.14",
+    "reason": "TIER 1 Setup matching WON ROSE-USDC strategy: RSI 53.7 (ideal 50-60 range), +2.1% 24h gain (within 3-5%), MACD bullish (67.00>61.21), High Vol, 1H:BUY; BTC neutral dip (-0.90%) with relative strength; avoids LOST patterns of high gains/RSI."
+  }
+}

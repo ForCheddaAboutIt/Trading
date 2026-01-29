@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-19T00:30:31.803607+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "product_id": "PAXG-USDC",
+    "quote_size": "0.00",
+    "reason": "OVERBOUGHT REJECTION: RSI 87.4 exceeds safe threshold (>75 = Overbought). BTC bearish (-2.46%) without relative strength decoupling in PAXG. +1.6% gain insufficient to justify entry in overbought state. Mimicking WON strategies (AERO +6.4%, ROSE +9.1%) requires RSI 50-70 range; PAXG violates this. LOST trades (PROMPT -6.9%, -7.5%) show danger of chasing momentum in weak setups. Better to preserve capital and wait for RSI pullback to 50-70 range with sustained momentum."
+  }
+}

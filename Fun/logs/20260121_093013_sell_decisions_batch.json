@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-21T09:30:13.000049+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "SELL",
+      "product_id": "SAND-USDC",
+      "base_size": "142.1",
+      "reason": "BTC -2.05% breach of -2% panic threshold with negative position (-0.33%). PANIC EXIT rule triggered. Market shows multiple bear signals: Bitcoin below 365-day MA ($101k), Kumo twist bearish, exchange inflows from large holders signal distribution. Despite SAND technicals (STRONG_BUY 1H/4H, RSI 57.3), macro headwinds override. Exit immediately per CRITICAL RULE 1."
+    }
+  ]
+}

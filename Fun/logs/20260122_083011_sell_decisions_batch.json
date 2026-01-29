@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-22T08:30:11.482653+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "ACH-USDC",
+      "base_size": "20.83",
+      "reason": "P&L +2.9% <5% (NORMAL HOLDING); Current $0.012581 > ATR_STOP $0.0123; Technicals 1H:BUY/4H:BUY, RSI 54.0 (ideal 50-60 per WON ROSE strategy); Trend intact, matches WON pattern (avoiding LOST overbought/high % chases)."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "time": "2026-01-09T21:30:21.463161+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "SOL-USDC",
+      "base_size": "10.0",
+      "reason": "P&L is -3.0% (<5% target) so this is a NORMAL HOLDING; BTC is only -0.79% so PANIC EXIT rule is NOT triggered; price (136.07) remains above ATR_STOP (133.31) so ATR STOP rule is NOT triggered. Despite 1H SELL / 4H NEUTRAL and RSI cooling to 43.7, system rules prioritize holding while above ATR stop and before -2% BTC dump, in line with the controlled momentum profile used in the prior POL-USDC WIN rather than cutting early like recent LOSERS."
+    },
+    {
+      "action": "SELL",
+      "product_id": "IRYS-USDC",
+      "base_size": "261",
+      "reason": "Profit target hit +17.9% with RSI 77.9 (parabolic/overbought); per WON POL-style logic we lock in gains rather than risk reversal at high RSI"
+    }
+  ]
+}

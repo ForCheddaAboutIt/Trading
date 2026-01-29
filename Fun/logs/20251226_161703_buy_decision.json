@@ -1,0 +1,10 @@
+{
+  "time": "2025-12-26T16:17:03.332321+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "ZKP-USDC",
+    "quote_size": "13.52",
+    "reason": "Strongest multi-timeframe momentum in 8-15% daily range: +13.1% daily, +13.1% 1H (>3%), +18.3% 4H (>2%)"
+  }
+}

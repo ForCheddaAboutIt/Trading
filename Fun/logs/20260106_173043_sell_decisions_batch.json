@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-06T17:30:43.048897+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "WIF-USDC",
+      "base_size": "65.21",
+      "reason": "Position +3.8% (below 5% target), RSI 55.5 in ideal 50-60 zone (not overbought), 1H BUY/4H STRONG_BUY confirms trend intact. Price $0.438 > ATR Stop $0.4090. BTC -2.09% does not trigger panic exit (threshold: <-2% with negative position). Matches WON STX strategy pattern (VW-RSI not overbought, room to grow). Hold while Price > ATR Stop and trend remains bullish."
+    }
+  ]
+}

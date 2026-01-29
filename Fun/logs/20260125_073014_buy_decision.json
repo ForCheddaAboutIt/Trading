@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-25T07:30:14.036746+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "No candidates meet strict criteria without repeating LOST TIER 1 strategies (e.g., RSI 50-60 +3-5% gains led to losses); all have RSI >49.6 (many 60+ risking overbought), gains mixed, BTC dipping -0.98% lacks relative strength exception; patience prioritizes cash over weak setups."
+  }
+}

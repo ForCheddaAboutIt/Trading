@@ -1,0 +1,18 @@
+{
+  "time": "2026-01-05T16:30:16.803716+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "PROMPT-USDC",
+      "base_size": "414.7",
+      "reason": "NORMAL HOLDING (-0.2% <5%): Current $0.06354 > ATR_STOP $0.0611; 1H:BUY/4H:BUY trend intact; RSI 53.0 neutral (matches WON VW-RSI logic: not overbought, room to grow like 35.8/39.2); BTC bullish +2.78%"
+    },
+    {
+      "action": "HOLD",
+      "product_id": "AAVE-USDC",
+      "base_size": "0.051",
+      "reason": "Profit target +6.0% achieved with parabolic technicals: 1H/4H BUY confirmed, RSI 67.9 (momentum strong but not yet exhausted at 70+), Price $169.63 > ATR Stop $166.27. Volume-weighted momentum supports continuation. Hold pending RSI >70 or trend break below ATR stop."
+    }
+  ]
+}

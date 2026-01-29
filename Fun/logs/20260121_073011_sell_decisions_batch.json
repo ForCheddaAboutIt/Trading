@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-21T07:30:11.084824+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "SAND-USDC",
+      "base_size": "142.1",
+      "reason": "NORMAL HOLDING (-2.2% <5%): Current $0.1438 > ATR_STOP $0.1380. 1H:BUY/4H:BUY, RSI 52.9 aligns with WON ROSE strategy (RSI 50-60). Trend intact despite BTC -1.62% headwind; recent analyses show SAND breakout, whale accumulation, +7-15% gains outperforming market[4][5][6][7]. Avoids LOST SAND logic by holding technicals."
+    }
+  ]
+}

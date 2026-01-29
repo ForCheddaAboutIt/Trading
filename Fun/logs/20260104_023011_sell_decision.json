@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-04T02:30:11.628982+00:00",
+  "type": "sell_decision",
+  "data": {
+    "action": "HOLD",
+    "product_id": "STX-USDC",
+    "base_size": "36.96",
+    "reason": "P&L +2.9% below 5% target. Price $0.3094 > ATR Stop $0.3041. RSI 70.5 elevated but technicals show 4H STRONG_BUY. Bullish engulfing pattern on weekly timeframe[1] with next resistance $0.305-$0.310[2]. Volume spiking supports continuation. Monitor for overbought pullback to $0.295-$0.305[2] before next leg up."
+  }
+}

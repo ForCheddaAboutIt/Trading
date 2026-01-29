@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-12T01:30:16.890926+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "AERO-USDC",
+    "quote_size": "12.31",
+    "reason": "Mimics prior WON TIER 2 momentum pattern with BTC stable: 24h gain +3.6% (>3%), RSI 60.5 (60\u201370 HOT band), MACD effectively flat-to-bullish with 1H STRONG_BUY and strong volume; other candidates either fall into previously losing Tier 1-style logic (TAO, CBETH) or hotter/chasey Tier 2 profiles that resemble recent LOSERS (FET, PENDLE). Using 40% of 30.77 per TIER 2 sizing rule."
+  }
+}

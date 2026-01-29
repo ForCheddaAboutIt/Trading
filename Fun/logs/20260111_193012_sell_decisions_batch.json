@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-11T19:30:12.075240+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "AKT-USDC",
+      "base_size": "0",
+      "reason": "P&L -1.8% is above -2% panic-exit threshold and price (0.498) is still above ATR stop (0.4826); BTC is neutral and 1H/4H trend + RSI ~51 remain intact. This is a TIER 1-style setup modeled on prior WON AAVE/POL trades, so per playbook and rule 3, continue normal swing hold while trend and ATR stop are not broken."
+    }
+  ]
+}

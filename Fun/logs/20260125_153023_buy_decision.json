@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-25T15:30:23.556402+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "No candidates meet criteria without repeating LOST TIER 1 logic (e.g., AXL RSI 55.7 but +16.4% gain >15% chase risk; FLUID RSI 46.9 <50; JTO RSI 65.1 in TIER 2 but gain 7.2% with flat MACD); BTC neutral dip, no relative strength decoupling, prioritize patience per rules."
+  }
+}

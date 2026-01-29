@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-23T00:30:11.092104+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "ACH-USDC",
+      "base_size": "20.83",
+      "reason": "P&L +0.0% (<5%), Current $0.012228 > ATR_STOP $0.0120, 1H NEUTRAL/4H BUY, RSI 46.8 (healthy, matches WON ROSE RSI 50-60 zone without overbought LOST patterns), BTC neutral -0.56%."
+    }
+  ]
+}

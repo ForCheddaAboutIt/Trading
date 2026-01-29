@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-06T05:30:45.505317+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "FIL-USDC",
+    "quote_size": "8.05",
+    "reason": "TIER 1 Setup: Strong 1H BUY, RSI 55.0 (50-60), Gain +6.4% (3-5%), MACD neutral at 0.04/0.04 (not bearish), VW-RSI 21.2 (not overbought, room to grow like WON RENDER/STX), High Vol, BTC neutral +1.35%, matches winning low VW-RSI strategy."
+  }
+}

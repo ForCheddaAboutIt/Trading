@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-26T21:30:16.422590+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "product_id": null,
+    "quote_size": "0.00",
+    "reason": "No candidate meets TIER 1 criteria. All coins show RSI >60 (TIER 2 territory) with gains >5%, matching LOST trade patterns (TRUST, ASTER, SUPER all failed with RSI 50-60 + high gains). ZEC/VVV/SYRUP exceed RSI 64 (overbought risk). JTO is closest (RSI 60.4, +12.2%, STRONG_BUY signal, MACD near zero) but MACD lacks bullish confirmation (Line not > Signal). ALGO shows better MACD structure but RSI 62 + 6.8% gain still mirrors failed TIER 1 setups. BTC +1.64% is bullish but insufficient to override weak individual setups. Patience required\u2014wait for RSI 50-60 range with MACD Line > Signal Line crossover."
+  }
+}

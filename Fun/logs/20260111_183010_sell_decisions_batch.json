@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-11T18:30:10.925045+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "AKT-USDC",
+      "base_size": "50.24",
+      "reason": "Normal holding: PnL -1.4% (> -2% so no panic exit), profit target not hit (< 5%), price is above ATR stop (0.50 > 0.4824), BTC neutral and 1H/4H trend intact with mid-range RSI 52; aligns with calmer TIER 1-style WINNER logic and avoids cutting early like recent LOSERS."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-23T03:30:11.058898+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "ACH-USDC",
+      "base_size": "20.83",
+      "reason": "P&L +1.9% <5% (normal holding); Current $0.012456 > ATR Stop $0.0122; 1H/4H STRONG_BUY, RSI 55.2 (ideal 50-60 matching WON ROSE strategy); BTC neutral -0.13% (no panic); Technicals bullish per predictions[1][3]"
+    }
+  ]
+}

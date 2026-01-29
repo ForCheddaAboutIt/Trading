@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-11T04:30:12.100801+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "STX-USDC",
+      "base_size": "67.5",
+      "reason": "P&L is -1.7% (no panic exit), profit target not hit, price remains above ATR stop (0.3839 > 0.3720), BTC is neutral, and this is a TIER 1-style setup modeled on prior WON AAVE/POL trades. 1H has cooled to NEUTRAL with RSI 51.7 but trend is still intact on 4H BUY, so per strategy rules this remains a normal swing hold while above ATR stop and without clear trend break."
+    }
+  ]
+}

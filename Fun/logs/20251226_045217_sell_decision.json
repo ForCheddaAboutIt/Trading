@@ -1,0 +1,8 @@
+{
+  "time": "2025-12-26T04:52:17.695059+00:00",
+  "type": "sell_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "BTC is up about 2% and ALEPH is flat, both below the 8% take-profit and 5% stop-loss thresholds; momentum is still positive for BTC and neutral for ALEPH, so per the 1\u20135 day momentum strategy you should continue to hold and let the trades develop."
+  }
+}

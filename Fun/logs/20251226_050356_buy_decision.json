@@ -1,0 +1,10 @@
+{
+  "time": "2025-12-26T05:03:56.757301+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "PLUME-USDC",
+    "quote_size": "4.88",
+    "reason": "Strongest multi-timeframe momentum in 8-15% daily range: 10.9% daily, 1H +10.9%>3%, 4H +9.3%>2%; prioritizes safe range over FLOCK/YB (16-17%) per criteria."
+  }
+}

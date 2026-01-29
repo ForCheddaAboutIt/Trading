@@ -1,0 +1,18 @@
+{
+  "time": "2026-01-06T02:30:14.298617+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "ORCA-USDC",
+      "base_size": "8.12",
+      "reason": "P&L -1.2% (<5%, normal holding). Current $1.2023 > ATR stop $1.1763. Matches WON strategies (VW-RSI low/not overbought at entry like 35-39). RSI 46.7 neutral (30-70 per [1][3]), 4H BUY despite 1H SELL; trend not broken."
+    },
+    {
+      "action": "HOLD",
+      "product_id": "PROMPT-USDC",
+      "base_size": "4.5",
+      "reason": "P&L -0.8% (<5%, normal holding); Current $0.06318 > ATR stop $0.0605; 1H:BUY/4H:BUY signals intact; RSI 50.0 neutral (not overbought like WON strategies VW-RSI 35-39); trend not broken, matches repeat WON logic."
+    }
+  ]
+}

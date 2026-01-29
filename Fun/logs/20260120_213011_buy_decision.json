@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-20T21:30:11.287887+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "BTC dropping hard (-3.24% 24h) with no clear Relative Strength decoupling; AXS +22.7% exceeds AVOID Gain >15% and chases late (RSI 53.8 but massive gain risky per LOST lessons like BERA +8%), PAXG RSI 77.4 overbought (AVOID >75). No TIER 1/2 matching WON ROSE strategy (+3.8%, RSI ideal)."
+  }
+}

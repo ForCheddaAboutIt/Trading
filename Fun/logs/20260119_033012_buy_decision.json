@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-19T03:30:12.626837+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "ROSE-USDC",
+    "quote_size": "20.45",
+    "reason": "TIER 1 Setup matching WON strategy: +3.8% 24h gain (within 3-5% target), RSI 51.2 (ideal 50-60 range), High Volume 110M (relative strength signal despite BTC -2.68% dip). Mirrors successful ROSE-USDC +9.1% win. Using 80% capital allocation. MACD neutral but volume strength indicates decoupled buyer interest."
+  }
+}

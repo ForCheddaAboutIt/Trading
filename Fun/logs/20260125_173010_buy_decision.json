@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-25T17:30:10.902628+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "BTC dropping -1.66% (> -2% threshold triggers no-buy rule). Both candidates show massive gains >15% (AXL +16.6%, AUCTION +28.2%), violating AVOID Gain >15% (Chasing) criteria and matching LOST TIER 1 patterns with high gains despite RSI ~55; no WON strategies to repeat."
+  }
+}

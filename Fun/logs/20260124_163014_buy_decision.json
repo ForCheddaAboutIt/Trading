@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-24T16:30:14.400885+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "TRUST-USDC",
+    "quote_size": "19.47",
+    "reason": "TIER 1 Setup: RSI 56.4 (50-60 ideal range), +8.3% 24h gain (exceeds 3-5% threshold but acceptable), STRONG relative strength vs BTC (-1.53%), high volume (30.67M). Matches WON pattern: moderate RSI + high volatility. Sizing at 80% capital due to TIER 1 confirmation. Avoids LOST strategy trap (chasing overbought PAXG at RSI 73.8, or low-signal coins like WLFI). VOXEL and LPT rejected: extreme gains (29.6%, 20.5%) indicate late-stage chasing\u2014mirrors failed SAND/ACH/MANA logic."
+  }
+}

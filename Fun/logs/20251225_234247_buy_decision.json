@@ -1,0 +1,8 @@
+{
+  "time": "2025-12-25T23:42:47.254446+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "BTC market leader at $87k with minor -0.44% dip; top assets like PAXG, YFI, ETH trading at premiums vs search prices (ETH $2895 vs $2933, SOL $120 vs $121); small $35 capital with no asymmetric opportunities in available markets amid holiday thin liquidity."
+  }
+}

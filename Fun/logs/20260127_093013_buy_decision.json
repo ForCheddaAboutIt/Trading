@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-27T09:30:13.495149+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "No winning strategies in recent lessons to repeat; all listed are LOST (TIER 1/2 setups and relative strength failed). Current candidates show high gains (>4%) with RSI 56-60 but VW-RSI often >70 (overbought risk per [1][2]); MACD flat or marginal (not clear bullish cross per [1][3]); BTC neutral, no relative strength exception; avoid repeating lost logic."
+  }
+}

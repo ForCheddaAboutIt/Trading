@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-02T21:46:44.425356+00:00",
+  "type": "sell_decision",
+  "data": {
+    "action": "HOLD",
+    "product_id": "",
+    "base_size": "0",
+    "reason": "No rules triggered: BTC 24h +1.58% (not < -2%), all P&L > -5% and < +8%, RSI not >75 (XAN:56.4, ADA:72.8, BTC:62.4), all current prices > ATR_STOP (XAN:0.01705>0.0166, ADA:0.3887>0.3779, BTC:89919>88776.66)"
+  }
+}

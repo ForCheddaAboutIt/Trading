@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-08T16:30:12.973519+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "POL-USDC",
+      "base_size": "199.61",
+      "reason": "PnL +2.3% is below 5% target, BTC neutral (> -2%), price above ATR stop with 1H STRONG_BUY / 4H BUY and RSI 57.7 matching prior WON Tier 1 profile; no panic/ATR exit triggers, continue standard swing hold."
+    }
+  ]
+}

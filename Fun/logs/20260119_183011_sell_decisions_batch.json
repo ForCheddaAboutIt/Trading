@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-19T18:30:11.154559+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "BERA-USDC",
+      "base_size": "24.28",
+      "reason": "Position +0.8% with RSI 58.7 (ideal 50-60 range) and STRONG_BUY 1H signal. BTC -2.53% but BERA showing strong decoupling (+8.0% 24h gain) matching WON ROSE pattern. Price $0.954 > ATR Stop $0.8913. Hold while technicals remain bullish and relative strength persists. Monitor for trend break or ATR stop breach."
+    }
+  ]
+}

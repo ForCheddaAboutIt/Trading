@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-09T23:30:11.216419+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "SELL",
+      "product_id": "SOL-USDC",
+      "base_size": "0.07046572",
+      "reason": "P&L -3.0% with 1H SELL, RSI dropped to 43.4 and price is below ATR stop, breaking the high-momentum Tier 2-style thesis and triggering stop-based exit per rules while avoiding holding a broken trend like prior LOSSES."
+    }
+  ]
+}

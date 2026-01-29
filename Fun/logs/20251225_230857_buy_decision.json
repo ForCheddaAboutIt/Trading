@@ -1,0 +1,8 @@
+{
+  "time": "2025-12-25T23:08:57.988161+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "No available USDC to buy ($0.00 balance). Portfolio value low at $14.73 with small positions in top assets like BTC, PAXG; market stable with BTC up 0.09%. Recent analyses highlight BNB and SOL strength but no liquidity for new positions under 30% max size rule."
+  }
+}

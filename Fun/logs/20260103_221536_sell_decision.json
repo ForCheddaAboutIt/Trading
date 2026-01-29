@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-03T22:15:36.206996+00:00",
+  "type": "sell_decision",
+  "data": {
+    "action": "HOLD",
+    "product_id": "",
+    "base_size": "0",
+    "reason": "No sell signals triggered: P&L AAVE +0.9% <8%, RSI 58.5 <75, USELESS +0.2% <8%, RSI 57.2 <75; BTC +0.62% not <-2%; above ATR stops; positive expectancy & BUY signals."
+  }
+}

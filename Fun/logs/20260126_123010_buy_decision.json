@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-26T12:30:10.846108+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "No candidates meet criteria without repeating LOST TIER 1 strategies (RSI 50-60 + 3-5% avoided per lessons); PAXG RSI 58.6/+1.2% too weak gain; others TIER 2+ (high RSI/gains >5%, e.g. BOBBOB +22.9% RSI 63.6) or MACD not clearly bullish (PAXG 62.29<66.39); BTC neutral -1.15% no relative strength exception."
+  }
+}

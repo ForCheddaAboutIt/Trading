@@ -1,0 +1,8 @@
+{
+  "time": "2025-12-26T00:10:22.605900+00:00",
+  "type": "sell_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "BTC-USDC position is down only 0.23%, below 5% stop loss threshold and far from 8% profit target; BTC market down 0.70% but no negative momentum or news turning point indicated for 1-5 day hold."
+  }
+}

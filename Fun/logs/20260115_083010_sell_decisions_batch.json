@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-15T08:30:10.913469+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "PROMPT-USDC",
+      "base_size": "371.9",
+      "reason": "P&L -0.5% (<5%), Current 0.0674 > ATR Stop 0.0652, 1H:BUY/4H:BUY signals intact, RSI 50.1 neutral in TIER 1 50-60 range, BTC neutral +1.35%; mimics WON AERO TIER strategies, avoids LOST high-momentum chases."
+    }
+  ]
+}

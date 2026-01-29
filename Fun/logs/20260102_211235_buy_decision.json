@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-02T21:12:35.169234+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "product_id": "",
+    "quote_size": "0.00",
+    "reason": "No past trades (Win Rate unknown, default strict). BTC neutral (not bearish, but HOLD per rule if not bullish). No candidate meets RSI 45-65: closest MON-USDC RSI 57.9 but 1H signal (requires 4H Strong Buy). All 1H BUY with most RSI >65."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-10T21:30:16.605785+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "No candidate matches proven WON setups within risk rules. Market neutral (BTC -0.07%), so no need to force risk. POL is +19.3% with RSI 74.3 (overbought and gain >15%), violating AVOID rule and too extended versus prior POL/IRYS wins. BLZ (+21.7%) and VVV (+8.9%) both have RSI >70 or VW-RSI extremely elevated (chasing, high mean-reversion risk). STX and AKT have acceptable RSI bands but only 1H BUY (not STRONG_BUY) and lack the clean Tier 1/2 structure that characterized prior POL/IRYS wins; also their 24h gains (5.6% and 13.2%) sit outside the ideal 3\u20135% Tier 1 band and do not clearly reproduce the exact WON playbook. In line with PATIENCE and to avoid repeating LOSING Tier 1/Tier 2 chases, best decision is to wait for a cleaner Tier 1 (RSI 50\u201360, gain 3\u20135%, 1H STRONG_BUY, MACD clearly bullish) or Tier 2 (RSI 60\u201370, gain >5% but <15%, 1H STRONG_BUY) setup before deploying capital."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-04T19:09:19.548054+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "AAVE-USDC",
+      "base_size": "0.051",
+      "reason": "Position +1.2% with RSI 46.2 (neutral zone). Price $162.04 > ATR Stop $159.59. 1H SELL conflicts with 4H BUY; holding pending trend clarity. Not at profit target (< 5%), no panic exit trigger (BTC +0.64%). Monitor for RSI breakout above 50 (bullish momentum) or break below ATR stop (exit signal)."
+    }
+  ]
+}

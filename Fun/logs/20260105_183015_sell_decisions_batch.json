@@ -1,0 +1,18 @@
+{
+  "time": "2026-01-05T18:30:15.291031+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "PROMPT-USDC",
+      "base_size": "4.5",
+      "reason": "P&L +0.8% <5% (normal holding); Current $0.06417 > ATR_STOP $0.0617; 1H STRONG_BUY/4H BUY; RSI 54.7 (not overbought, room to grow like WON RENDER/STX VW-RSI 35-39); trend intact matching WON strategies."
+    },
+    {
+      "action": "SELL",
+      "product_id": "AAVE-USDC",
+      "base_size": "0.051",
+      "reason": "Profit target >5% hit at +7.7%; RSI 74.8 overbought (not 65-80 parabolic range), fails 90% confidence test for higher in next hour per rules despite STRONG_BUY signals[1][2]"
+    }
+  ]
+}

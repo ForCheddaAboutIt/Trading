@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-08T05:20:17.350460+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "POL-USDC",
+      "base_size": "199.61",
+      "reason": "Normal swing trade: P&L +0.6% (<5% so no profit target), BTC -1.66% but PANIC EXIT rule not triggered (BTC > -2% and position is profitable), price above ATR stop (0.1292 > 0.1266), 1H STRONG_BUY / 4H BUY, RSI 57.1 and VW-RSI not overbought\u2014all consistent with prior WON Tier 1 pattern and explicitly avoids cutting early like recent LOST Tier 1 trades."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-24T19:30:10.409336+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "TRUST-USDC",
+      "base_size": "0",
+      "reason": "P&L +1.8% <5% threshold (NORMAL HOLDING). Current $0.11949 > ATR_STOP $0.1141. 1H:BUY/4H:STRONG_BUY, RSI:58.5 (50-60 ideal, matches WON TIER 1 pattern). BTC neutral (-0.27%) with sideways trading[1][2]; TRUST strong relative strength. Avoids LOST chasing logic."
+    }
+  ]
+}

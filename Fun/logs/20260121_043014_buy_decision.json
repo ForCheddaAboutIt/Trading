@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-21T04:30:14.153583+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "SAND-USDC",
+    "quote_size": "21.27",
+    "reason": "TIER 1 Setup matching WON ROSE-USDC pattern: +5.5% 24h gain (within 3-5% ideal range), RSI 60.0 (perfect 50-60 tier), STRONG_BUY 1H signal, high volume (29.6M). Despite BTC -2.35% headwind, SAND shows relative strength decoupling. Capital sizing 80% per TIER 1 protocol. Avoids LOST logic (ZRO/BERA chasing >6% gains, AXS/KTA overbought RSI >70, ZRO repeat failure)."
+  }
+}

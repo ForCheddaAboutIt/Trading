@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-22T18:30:12.577095+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "ACH-USDC",
+      "base_size": "1683.3",
+      "reason": "Position -0.9% within normal swing trade parameters. Current price $0.01212 above ATR stop $0.0118. 1H SELL signal offset by 4H NEUTRAL and bullish technical setup (RSI 41.9 recovering from oversold, MACD positive momentum per search results). BTC -0.84% neutral backdrop. Entry matched winning ROSE-USDC pattern; maintain position while price holds above stop. Monitor for breakout above $0.012 resistance targeting $0.014 per technical levels."
+    }
+  ]
+}

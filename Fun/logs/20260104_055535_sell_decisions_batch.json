@@ -1,0 +1,18 @@
+{
+  "time": "2026-01-04T05:55:35.107731+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "USELESS-USDC",
+      "base_size": "41.9",
+      "reason": "P&L +5.9% (<5% threshold), Price 0.1062 > ATR_STOP 0.1014, 1H/4H STRONG_BUY, RSI 62.7 (bullish trend per VW-RSI 35.8 win strategy, not overbought <70), BTC bullish +1.74%"
+    },
+    {
+      "action": "HOLD",
+      "product_id": "AAVE-USDC",
+      "base_size": "0.051",
+      "reason": "P&L +1.9% <5%, Current $163.08 > ATR_STOP $161.28, 1H:BUY/4H:BUY, RSI:58.7 neutral-bullish. Bullish forecasts target $177-195 (14-21% upside)[1][2][3], key resistance break $165 aligns with whale accumulation[1]. Repeats 'WON' strategy: hold strong buy signals."
+    }
+  ]
+}

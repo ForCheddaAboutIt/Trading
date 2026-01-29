@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-22T15:30:16.802005+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "ACH-USDC",
+      "base_size": "1683.3",
+      "reason": "P&L -1.5% within normal swing trade range. Current price $0.01205 > ATR Stop $0.0118. RSI 38.2 shows oversold conditions (potential reversal zone). 1H SELL signal offset by 4H NEUTRAL and bullish technical setup from entry (RSI 54.1, MACD bullish, high volume 286M). Price predictions show upside to $0.01343 by Feb 20 (+8.98%)[1], supporting hold thesis. BTC +1.21% provides supportive macro backdrop. Monitor for RSI recovery above 50 or break below ATR stop as exit triggers."
+    }
+  ]
+}

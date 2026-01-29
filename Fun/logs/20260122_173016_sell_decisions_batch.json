@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-22T17:30:16.861597+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "ACH-USDC",
+      "base_size": "1683.3",
+      "reason": "Position +0.38% with price $0.012275 above ATR stop $0.0120. RSI 46.5 (neutral zone, not overbought). 1H SELL signal conflicts with 4H BUY and bullish technicals (EMA 5/10/21/50/100 all BUY)[1]. Entry matched winning ROSE-USDC pattern with ideal RSI 50-60 zone and strong volume. Price predictions show modest near-term gains (1.13% by Feb 21)[1]. Hold while price remains above stop and trend intact; monitor for break below $0.0120 or RSI compression below 40."
+    }
+  ]
+}

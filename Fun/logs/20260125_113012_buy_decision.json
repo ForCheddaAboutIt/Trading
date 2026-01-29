@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-25T11:30:12.422970+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "No candidates meet criteria: All have RSI 65+ (TIER 2 but >60-70 ideal, AVNT >75 VW-RSI overbought risk, +22% gain chases); recent LOST trades on similar TIER 1/2 setups with 3-8% gains & RSI 50-60 failed; BTC -0.96% dip lacks relative strength decoupling; no WON strategies to repeat."
+  }
+}

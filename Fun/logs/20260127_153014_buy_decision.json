@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-27T15:30:14.758973+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "product_id": null,
+    "quote_size": "0.00",
+    "reason": "No candidates meet strict criteria: All have RSI ~50-59 (avoid TIER 1 per recent LOST trades on similar RSI 50-60 + 3-5% gains); PROMPT/AXL gains >10% risk chasing (avoid >15% but high); AXL RSI 53.8 but gain 19.9% over tier limits; no clear MACD > Signal (most 0.00/0.00 or marginal); BTC neutral, no relative strength exception; prioritize patience over weak setups."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-03T21:39:40.031734+00:00",
+  "type": "sell_decision",
+  "data": {
+    "action": "HOLD",
+    "product_id": "",
+    "base_size": "0",
+    "reason": "No critical rules triggered: BTC +0.48% (not < -2%), AAVE P&L +0.8% (not >+8% or <-5%, RSI 58.3<75, current $161.35 > ATR_STOP $159.48), USELESS P&L +0.0% (current $0.1011 > ATR_STOP $0.0959). Technicals show BUY signals."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "time": "2025-12-26T00:10:26.252802+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "Insufficient real-time data on intraday price action, volume surges, and news flow across the listed pairs to reliably identify a 1\u20135 day momentum setup with 8\u201315% upside and controlled downside. Without concrete confirmation of a fresh breakout or strong volume-backed trend in one of the liquid majors (BTC, ETH, SOL, etc.), any specific BUY call would be guesswork rather than a signal grounded in current momentum conditions. Preserving capital until a clearly defined, high-conviction momentum move appears is the higher-quality decision here."
+  }
+}

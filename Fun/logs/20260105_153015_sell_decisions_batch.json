@@ -1,0 +1,18 @@
+{
+  "time": "2026-01-05T15:30:15.052598+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "PROMPT-USDC",
+      "base_size": "4.5",
+      "reason": "NORMAL HOLDING (-1.2% <5%): Current $0.06293 > ATR_STOP $0.0610; 1H:BUY/4H:STRONG_BUY confirms uptrend; RSI 53.5 neutral (not overbought, matches WON VW-RSI logic 25.5-39.2 at entry with room to grow); BTC +2.26% bullish context."
+    },
+    {
+      "action": "HOLD",
+      "product_id": "AAVE-USDC",
+      "base_size": "0.051",
+      "reason": "P&L +4.3% <5% threshold; Current $167 > ATR_STOP $163.94; 1H STRONG_BUY/4H BUY with RSI 60.4 (room to grow like recent WON trades VW-RSI 35-39); Bullish predictions to $172-195[1][2][3]; BTC market bullish +2.26%."
+    }
+  ]
+}

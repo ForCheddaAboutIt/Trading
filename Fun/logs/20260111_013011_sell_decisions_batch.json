@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-11T01:30:11.290638+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "STX-USDC",
+      "base_size": "67.5",
+      "reason": "P&L is -1.8% (no panic exit), BTC is neutral, 4H trend still BUY, price remains above ATR stop (0.3838 > 0.3699) and within TIER 1-style swing framework; no profit target hit and trend/stop conditions to exit are not yet violated."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "time": "2025-12-26T15:11:49.499060+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "FLOCK-USDC",
+    "quote_size": "4.88",
+    "reason": "FLOCK-USDC in 8-15% daily range (+11.9%), 1H +11.9%>3%, 4H +10.3%>2%; strongest multi-timeframe momentum in priority range ahead of ALEPH (+9.1%,1H+9.1%>3%,4H+16.9%>2%) and BIO (+8.7%, meets criteria)."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-27T13:30:11.818363+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "product_id": null,
+    "quote_size": "0.00",
+    "reason": "No candidates meet criteria: All have high gains (>10% PROMPT/MON, 3% LIGHTER) but RSI overbought (PROMPT VW-RSI 66.2, LIGHTER 79.3, MON 79.4/91.9); MACD flat/not bullish crossover (PROMPT 0.00/0.00, MON 0.00/-0.00); recent TIER 1 losses on similar RSI 50-60 +3-5% gains; avoid chasing per rules and lessons."
+  }
+}

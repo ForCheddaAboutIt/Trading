@@ -1,0 +1,8 @@
+{
+  "time": "2025-12-26T17:15:28.819733+00:00",
+  "type": "sell_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "BTC P&L -0.32% (no 8%+ profit or 5%+ loss), YB P&L +0.99% (below 8%), ADA P&L -0.40% (no 5%+ loss); no momentum reversal trigger as BTC 24h -1.45% < -3%."
+  }
+}

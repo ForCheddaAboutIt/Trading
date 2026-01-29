@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-27T17:30:12.597479+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "VVV-USDC",
+      "base_size": "4.732",
+      "reason": "P&L -1.2% (<5%, normal holding). Current $3.3472 > ATR stop $3.2553. 1H NEUTRAL/4H BUY, RSI 49.9 (near ideal 50-60). BTC neutral -0.63% (no panic). Buy reason was winning TIER 1 setup (RSI 56.9, +5.2% 24h, MACD bullish); recent losses avoided by not repeating failed TIER 1/2 patterns."
+    }
+  ]
+}

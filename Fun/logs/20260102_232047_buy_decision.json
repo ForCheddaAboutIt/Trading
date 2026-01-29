@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-02T23:20:47.996599+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "MET-USDC",
+    "quote_size": "8.39",
+    "reason": "BTC bullish. MET-USDC has STRONG_BUY on 1H, VW-RSI 52.0 <60 (not overbought). No past trades, so positive expectancy. Using 50% of capital."
+  }
+}

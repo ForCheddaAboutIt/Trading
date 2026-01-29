@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-14T02:59:34.859778+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "ROSE-USDC",
+    "quote_size": "24.23",
+    "reason": "TIER 1 Setup matching WON AERO pattern: +6.5% 24h gain (high volatility), RSI 57.5 (ideal 50-60 range), MACD bullish crossover setup, BTC stable at +4.36% (no market headwind). High relative volume (90M) indicates strong buyer interest. Sizing 80% capital per TIER 1 protocol."
+  }
+}

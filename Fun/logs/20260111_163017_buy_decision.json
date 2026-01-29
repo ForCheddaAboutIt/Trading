@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-11T16:30:17.225613+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "AKT-USDC",
+    "quote_size": "25.78",
+    "reason": "TIER 1-style setup closely matching prior WON AAVE/POL pattern: RSI 55.6 in 50\u201360 ideal band, 24h gain +3.5% in 3\u20135% window, BTC stable/up, MACD slightly bullish/flat (no bearish cross), volatility adequate but not runaway; avoids HOT overextended profiles like high-RSI TIER 2 and extreme momentum that resembled recent LOSERS, prioritizing the calmer, mid-RSI, mid-gain structure that defined previous WINNERS while keeping some capital in reserve for risk control."
+  }
+}

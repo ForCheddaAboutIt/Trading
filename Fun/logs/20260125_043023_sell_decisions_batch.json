@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-25T04:30:23.396463+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "SELL",
+      "product_id": "ASTER-USDC",
+      "base_size": "28.06",
+      "reason": "P&L -1.8% (NORMAL HOLDING), but 1H:SELL/4H:SELL signals + RSI 45.4 indicate broken trend; recent LOST TIER 1 trades show similar RSI 50-60 setups failing; current_price 0.647 > ATR_STOP 0.6352 but technicals deteriorating in neutral BTC (-0.93%)"
+    }
+  ]
+}

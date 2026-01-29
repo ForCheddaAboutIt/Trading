@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-18T16:30:10.882506+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "ZRO-USDC",
+      "base_size": "12.4",
+      "reason": "TIER 1 Setup intact: RSI 55.4 (ideal 50-60 range), 1H/4H both BUY, Price $1.726 > ATR Stop $1.7012. P&L -0.46% within normal swing trade variance. Matches WON AERO/ROSE pattern (moderate volatility, RSI sweet spot). Hold through support; exit if Price < $1.7012 or RSI breaks below 50."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-19T01:44:27.063807+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "product_id": null,
+    "quote_size": "0.00",
+    "reason": "Market headwinds + candidate mismatches. BTC -2.60% (bearish). ME-USDC: +12.6% gain exceeds 15% chase threshold (avoid). PAXG-USDC: RSI 73.9 overbought (>75 avoid zone), minimal 1.2% gain, low volume (388). Neither matches WON ROSE pattern (high volatility + RSI 50-60 sweet spot). Recent losses show TIER 1 setups with RSI 50-60 + moderate gains underperformed; WON trade had +6.5% gain with similar RSI. Current candidates lack the exact confluence. Better to preserve capital than force a weak setup."
+  }
+}

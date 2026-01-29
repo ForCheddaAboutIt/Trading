@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-11T00:30:11.409986+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "STX-USDC",
+      "base_size": "67.5",
+      "reason": "P&L only +0.5% so below 5% target, BTC neutral not dumping, position is profitable so PANIC EXIT rule not triggered, price is above ATR stop (0.3928 > 0.3785) and 1H STRONG_BUY / 4H BUY with RSI 62 maintains the Tier 1-style trend-follow-through that matched prior WON AAVE/POL setups while avoiding premature exits seen in LOST trades."
+    }
+  ]
+}

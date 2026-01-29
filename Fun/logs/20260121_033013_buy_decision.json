@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-21T03:30:13.006829+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "BTC dropping -3.06% (> -2% threshold: DO NOT BUY). No candidates show Relative Strength exception (all alts positive but BTC deeply red prevents entry). AXS/ZRO/ROSE/KTA/SAND all RSI 60+ (TIER 2 or overbought, avoid chasing >15% gains like LOST BERA). Matches patience rule over weak setups; repeat WON ROSE logic requires ideal TIER 1 without BTC dip."
+  }
+}

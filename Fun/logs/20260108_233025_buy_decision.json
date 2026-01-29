@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-08T23:30:25.989093+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "FET-USDC",
+    "quote_size": "26.82",
+    "reason": "Tier 1 setup: 24h gain +4.4% (in 3\u20135% band), RSI 56.9 (50\u201360), 1H STRONG_BUY, MACD bullish/flat and not crossing down, volatility and volume elevated; avoids overbought VW-RSI levels seen in recent LOST trades and respects RSI < 60 preference from past WON-style setups while staying under gain>15% and RSI<75 rules"
+  }
+}

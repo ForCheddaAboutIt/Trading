@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-26T16:30:13.315567+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "No candidates meet strict criteria: All have 24h gains >3% except LTC (2.3% stagnant), ROSE/ALGO/VVV gains too high (16.1%/7.2%/10.7%) risking chase like LOST TIER 1 trades; MACD not clearly bullish (many 0.00/0.00 or negative); RSI mixed with several >60; BTC neutral, no relative strength exception; avoid repeating LOST TIER 1/Relative Strength logic."
+  }
+}

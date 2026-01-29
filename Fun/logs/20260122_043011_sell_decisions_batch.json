@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-22T04:30:11.074574+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "ACH-USDC",
+      "base_size": "20.83",
+      "reason": "P&L +2.7% <5% threshold for normal holding; current_price 0.012561 > ATR_STOP 0.0122; 1H:BUY/4H:BUY signals with RSI 53.9 in ideal 50-60 WON ROSE range; matches TIER 1 WON strategy (avoids LOST overbought/high % chases); BTC neutral +0.05% not < -2% panic; technicals bullish per sources[1][3]"
+    }
+  ]
+}

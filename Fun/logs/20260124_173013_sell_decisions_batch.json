@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-24T17:30:13.959227+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "reason": "No JSON found"
+    }
+  ]
+}

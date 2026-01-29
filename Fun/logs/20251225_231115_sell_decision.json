@@ -1,0 +1,8 @@
+{
+  "time": "2025-12-25T23:11:15.960651+00:00",
+  "type": "sell_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "All positions are extremely small, just opened, and near breakeven (pnl_pct within about \u00b10.4%). There is no meaningful profit to lock in or loss to cut yet, and trading fees or spreads could outweigh any benefit from exiting now."
+  }
+}

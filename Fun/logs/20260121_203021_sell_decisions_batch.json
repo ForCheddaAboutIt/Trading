@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-21T20:30:21.612307+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "ACH-USDC",
+      "base_size": "1683.3",
+      "reason": "P&L +2.2% within normal holding range (<5%). Price $0.0125 above ATR stop $0.0120. RSI 55.6 in ideal 50-60 zone matching winning ROSE-USDC pattern. 1H/4H both BUY signals with bullish technicals (MACD positive per search results). Current price near resistance $0.0114-0.012 with breakout potential to $0.014. Hold position as trend intact and technicals support continuation. Monitor for breakout above $0.012 resistance or close below ATR stop."
+    }
+  ]
+}

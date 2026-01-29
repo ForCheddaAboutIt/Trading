@@ -1,0 +1,8 @@
+{
+  "time": "2025-12-26T05:40:05.646133+00:00",
+  "type": "sell_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "BTC P&L +1.77% <8% profit target and >-5% stop loss. ALEPH P&L -0.24% >-5% stop loss. No trailing stop or momentum reversal triggered (BTC market +1.14%, ALEPH not specified as -3%+)."
+  }
+}

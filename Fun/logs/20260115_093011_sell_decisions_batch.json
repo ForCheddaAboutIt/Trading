@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-15T09:30:11.050879+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "PROMPT-USDC",
+      "base_size": "371.9",
+      "reason": "Position -1.3% with RSI 48.1 (below 50, not oversold). 1H SELL signal conflicts with 4H BUY and bullish BTC context (+1.76%, $96.7K). ATR stop at $0.0647 not breached. Current price $0.06685 > stop $0.0643625. Avoid panic exit on minor intraday weakness; wait for 4H confirmation or ATR breach before liquidating."
+    }
+  ]
+}

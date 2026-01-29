@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-25T15:30:12.689855+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "SELL",
+      "product_id": "SUPER-USDC",
+      "base_size": "85.47",
+      "reason": "P&L -3.2% (normal holding <5%), but 1H:SELL signal + RSI 46.3 (below 50 bearish momentum per [1]) + trend broken (technicals deteriorating). Current price $0.20258 > ATR stop $0.1915 but risk increasing; avoids repeating LOST TIER 1 traps with weakening momentum."
+    }
+  ]
+}

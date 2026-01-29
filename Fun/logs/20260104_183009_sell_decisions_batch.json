@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-04T18:30:09.531477+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "AAVE-USDC",
+      "base_size": "0.051",
+      "reason": "P&L +2.5% <5% (normal holding); Current $164 > ATR_STOP $161.67; 1H:BUY/4H:BUY signals intact; RSI 54.6 neutral/not overbought (mirrors winning VW-RSI 35-39 logic: room to grow); BTC neutral +1.18%"
+    }
+  ]
+}

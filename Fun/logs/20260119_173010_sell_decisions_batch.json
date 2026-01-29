@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-19T17:30:10.850686+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "BERA-USDC",
+      "base_size": "24.28",
+      "reason": "NORMAL HOLDING (<5% PnL +1.2%): Price 0.957 > ATR_STOP 0.8914. 1H STRONG_BUY, RSI 59.2 (ideal 50-60 range matching WON ROSE pattern), 4H BUY. BTC -2.26% but BERA decoupled positively as in buy_reason. Avoid LOST TIER 1 patterns by holding strong technicals per rules."
+    }
+  ]
+}

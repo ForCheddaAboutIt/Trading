@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-23T16:30:13.570665+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "MANA-USDC",
+      "base_size": "116.51",
+      "reason": "Position -0.8% (within normal holding range <5%). Current price $0.1686 > ATR Stop $0.1615. Technical indicators show RSI 48.0 (neutral, not oversold) and mixed signals (1H SELL/4H BUY). On-chain data bullish: Daily Active Addresses at 3-month highs, Open Interest surging, volume rising. If MANA closes above 100-day EMA at $0.176, upside to 200-day EMA at $0.218 is likely. Avoid panic exit; trend not broken. Monitor for break below ATR stop or confirmation of 1H sell signal with volume."
+    }
+  ]
+}

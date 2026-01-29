@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-27T18:30:14.196970+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "SELL",
+      "product_id": "VVV-USDC",
+      "base_size": "4.732",
+      "reason": "ATR STOP hit: current $3.2301 > stop $3.2176 but P&L -4.6% with 1H:SELL signal, RSI 38.5 oversold, mixed technicals; avoid losses like recent TIER 1/2 failures."
+    }
+  ]
+}

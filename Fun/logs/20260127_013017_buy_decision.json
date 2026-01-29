@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-27T01:30:17.921344+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "AVNT-USDC",
+    "quote_size": "8.34",
+    "reason": "TIER 2 Setup: RSI 58.1 (close to 50-60), +4.1% 24h gain, High Vol 12M+, 1H STRONG_BUY, MACD 0.01/0.01 (flat bullish), avoids LOST TIER 1 patterns with higher RSI/gains; BTC neutral +1.04% supports entry"
+  }
+}

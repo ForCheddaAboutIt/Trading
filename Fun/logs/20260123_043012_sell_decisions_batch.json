@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-23T04:30:12.734631+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "ACH-USDC",
+      "base_size": "1683.3",
+      "reason": "P&L +4.1% below 5% profit target. RSI 63.8 approaching overbought (65+) but not yet parabolic. Price $0.012729 > ATR Stop $0.0125 confirms support. 1H STRONG_BUY and 4H BUY technicals support continuation. Volume and relative strength metrics align with winning ROSE-USDC pattern. Hold until either: (1) profit target >5% with parabolic confirmation, or (2) price breaks below ATR stop at $0.0125."
+    }
+  ]
+}

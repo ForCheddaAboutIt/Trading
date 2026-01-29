@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-19T01:30:21.180757+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "product_id": null,
+    "quote_size": "0.00",
+    "reason": "Market conditions unfavorable. BTC -2.60% (bearish), violating SMART MARKET CHECK rule. ME-USDC shows +15.1% gain (CHASING territory, avoid per TIER rules). PAXG-USDC RSI 73.2 (overbought, >75 threshold breached). Neither candidate matches WON pattern (AERO/ROSE: TIER 1 with RSI 50-60 + moderate 3-6% gains). Recent LOST trades show TIER 1 setups with higher gains (6.9%, 7.5%) led to losses\u2014current candidates repeat this mistake. Patience critical: wait for BTC stabilization + altcoin with RSI 50-60 + 3-5% gain matching proven AERO/ROSE winning strategy."
+  }
+}

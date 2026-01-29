@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-06T16:30:12.391727+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "SELL",
+      "product_id": "PROMPT-USDC",
+      "base_size": "410.2",
+      "reason": "1H technicals turned SELL; RSI 40.7 (mid-range, no momentum support); -3.0% P&L below entry with ATR stop at $0.0597 (current $0.0618 approaching stop); BTC -1.61% bearish headwind; entry thesis (VW-RSI 25.5 room to grow) invalidated by lack of follow-through; 1H confirmation broken"
+    }
+  ]
+}

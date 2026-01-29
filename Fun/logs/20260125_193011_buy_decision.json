@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-25T19:30:11.535099+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "AGLD-USDC",
+    "quote_size": "17.28",
+    "reason": "Relative Strength during BTC -3.21% dip: AGLD +6.8% (high vol), RSI 50.3 (Tier 1 50-60), MACD 0.01>0.00 (bullish), 1H:BUY; TIER 1 uses 80% of 21.60 capital; avoids LOST TIER 1 patterns by emphasizing decoupling strength."
+  }
+}

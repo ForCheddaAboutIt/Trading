@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-02T21:15:16.278031+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "product_id": null,
+    "quote_size": "0.00",
+    "reason": "BTC neutral market; no candidates meet RSI 45-65 (all >65 or BTC at 60.3); no past performance for adjustment; per rules, HOLD in non-bearish but unconfirmed bullish conditions."
+  }
+}

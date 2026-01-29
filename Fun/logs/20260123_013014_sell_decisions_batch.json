@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-23T01:30:14.806586+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "ACH-USDC",
+      "base_size": "20.83",
+      "reason": "P&L +0.2% (<5% threshold for normal holding). Current price $0.012256 > ATR stop $0.0120. 1H NEUTRAL/4H BUY signals intact, RSI 47.9 in ideal 50-60 zone per WON ROSE strategy (avoids LOST overbought >60 like BERA). BTC neutral -0.27% (no panic exit). Bullish predictions across sources support continuation[1][3]."
+    }
+  ]
+}

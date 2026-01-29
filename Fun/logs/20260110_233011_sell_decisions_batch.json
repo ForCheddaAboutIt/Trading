@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-10T23:30:11.706440+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "STX-USDC",
+      "base_size": "67.5",
+      "reason": "PnL -1.1% so no panic-exit; profit target <5%; current price above ATR stop (0.3864 > 0.3733) and 1H/4H trend still BUY with RSI 55.7 in desired 50\u201360 Tier 1 band, consistent with prior WON AAVE/POL-style setups and avoiding premature exits seen in LOST trades."
+    }
+  ]
+}

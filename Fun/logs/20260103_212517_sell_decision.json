@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-03T21:25:17.706233+00:00",
+  "type": "sell_decision",
+  "data": {
+    "action": "SELL",
+    "product_id": "RENDER-USDC",
+    "base_size": "10.77",
+    "reason": "Profit > +8% and RSI > 75"
+  }
+}

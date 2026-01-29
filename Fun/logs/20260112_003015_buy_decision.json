@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-12T00:30:15.659279+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "No candidate matches the proven WON strategy profile (TIER 2 high\u2011momentum with BTC stable and >5% gain, RSI 60\u201370). FET and SOL are closer to prior LOST setups (FET Tier 1-style 3\u20135% band loss; SOL prior Tier 2 momentum loss). Remaining coins lack both Strong Buy on 4H and sufficient 24h momentum. Best action is to stay in cash and avoid forcing a trade."
+  }
+}

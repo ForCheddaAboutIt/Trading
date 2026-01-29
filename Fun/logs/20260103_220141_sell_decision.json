@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-03T22:01:41.732744+00:00",
+  "type": "sell_decision",
+  "data": {
+    "action": "HOLD",
+    "product_id": null,
+    "base_size": null,
+    "reason": "Both positions profitable (+0.8% AAVE, +1.6% USELESS), no stops hit (BTC neutral +0.58%, RSI 57.9/58.6 <75, P&L <+8%), positive expectancy, BUY signals, bullish AAVE predictions to $177-$183 short-term[1][2]"
+  }
+}

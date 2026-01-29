@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-11T17:30:11.808995+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "AKT-USDC",
+      "base_size": "50.24",
+      "reason": "P&L is small (-0.2%, well above panic and profit thresholds), price is above ATR stop (0.506 > 0.4883), BTC is neutral and higher-timeframe technicals are BUY/STRONG_BUY with mid-band RSI ~55 matching the calmer TIER 1-style profiles of prior WON trades; no rule-based exit trigger hit, so continue standard swing hold while avoiding premature cut similar to recent LOSERS."
+    }
+  ]
+}

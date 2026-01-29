@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-26T17:30:14.750334+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "No candidates meet strict criteria: All have 24h gains >6% (avoid chasing per TIER rules and recent LOST TIER 1 trades with +3-8% gains); most RSI 60+ (TIER 2/hot, but overbought risk VW-RSI 80+); MACD flat/not clearly bullish (e.g., 0.00/0.00 or -0.00/-0.00, no line > signal confirmation); BTC neutral, no relative strength exception; repeat LOST strategies avoided."
+  }
+}

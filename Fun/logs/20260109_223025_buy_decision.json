@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-09T22:30:25.053521+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "product_id": "",
+    "quote_size": "0",
+    "reason": "No candidate cleanly matches the prior WON POL-USDC setup while staying within risk rules. GMT: RSI 57.2 (good) but +17.9% 24h and MACD flat \u2192 violates avoid Gain >15% and lacks clear MACD edge. POL: RSI 63.1 and +13.1% \u2192 TIER 2 but approaching the >15% chase zone and VW-RSI 71.7 (getting hot), higher risk than the prior 6.3% POL win. STX: best TIER 1-like (RSI 59.2, +4.3%, 4H strong buy implied) but VW-RSI 71.7 indicates elevated heat versus the cooler prior POL win; recent history shows similar Tier 1 entries (SNX, FET) lost, so this is not a clean repeat of the winning pattern. RENDER and ATOM: both HOT/TIER 2 with higher RSI (57.8 & 68.4) and stronger gains (+7.6%, +6.1%) plus ATOM VW-RSI 83 (overheated) and RENDER MACD line still below signal (0.06/0.08), so they conflict with the conservative, mid-range RSI + moderate-gain profile of the winning POL trade. With BTC neutral and no perfect high-conviction replication of the prior WIN logic, the optimal move per rules is to stay patient and hold capital."
+  }
+}

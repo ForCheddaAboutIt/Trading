@@ -1,0 +1,24 @@
+{
+  "time": "2026-01-04T03:30:18.534183+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "HOLD",
+      "product_id": "STX-USDC",
+      "base_size": "36.96",
+      "reason": "P&L +2.4% below 5% target. RSI 66.9 (parabolic zone 65-80), 1H BUY/4H STRONG_BUY confirms uptrend. Price $0.308 > ATR Stop $0.3026. Bullish engulfing pattern on weekly timeframe suggests continuation to $0.305-$0.310 resistance. Volume spiking supports accumulation. Matches winning RENDER strategy: low VW-RSI entry with momentum. Hold for target extension."
+    },
+    {
+      "action": "HOLD",
+      "product_id": "USELESS-USDC",
+      "base_size": "41.9",
+      "reason": "P&L +5.0% (<5%), Current 0.1053 > ATR_STOP 0.1007, 1H:BUY/4H:STRONG_BUY, RSI 63.0 (bullish momentum, not overbought per 65-80 parabolic threshold), repeats WON strategy logic of strong buy signals with VW-RSI not overbought"
+    },
+    {
+      "action": "HOLD",
+      "product_id": "AAVE-USDC",
+      "base_size": "0.051",
+      "reason": "P&L +2.4% <5% (normal hold); Current $163.91 > ATR_STOP $162.18; 1H:BUY/4H:BUY; RSI 66.1 aligns with recent WON strategy (VW-RSI 35.8 not overbought then, now approaching parabolic range); Analysts predict $177-195 targets (14-21% upside) with strong buy signals and whale accumulation[1][2][3]"
+    }
+  ]
+}

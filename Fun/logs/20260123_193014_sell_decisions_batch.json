@@ -1,0 +1,12 @@
+{
+  "time": "2026-01-23T19:30:14.062703+00:00",
+  "type": "sell_decisions_batch",
+  "data": [
+    {
+      "action": "SELL",
+      "product_id": "MANA-USDC",
+      "base_size": "116.51",
+      "reason": "P&L -1.7% (<5%), 1H:SELL signal, RSI 45.7 (below 50, trend weakening vs entry RSI 50.6), current $0.1671 > ATR_STOP $0.1623 but mixed technicals 1H:SELL/4H:BUY warrant exit to avoid LOST TIER 1 patterns with fading momentum."
+    }
+  ]
+}

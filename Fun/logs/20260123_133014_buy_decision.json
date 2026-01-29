@@ -1,0 +1,8 @@
+{
+  "time": "2026-01-23T13:30:14.972847+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "HOLD",
+    "reason": "No candidates meet strict criteria without repeating LOST strategies: ZRX +17% exceeds AVOID Gain >15%; MANA TIER 2 (RSI 55.2, Gain 8.6%) but MACD flat; SAND/PAXG repeat recent LOST TIER 1 patterns; BTC neutral, no perfect Tier 1/2 setup with relative strength decoupling."
+  }
+}

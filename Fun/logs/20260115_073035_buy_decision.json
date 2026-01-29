@@ -1,0 +1,10 @@
+{
+  "time": "2026-01-15T07:30:35.464362+00:00",
+  "type": "buy_decision",
+  "data": {
+    "action": "BUY",
+    "product_id": "PROMPT-USDC",
+    "quote_size": "25.50",
+    "reason": "TIER 1 Setup: RSI 51.7 (50-60 range), Gain 6.9% (near 3-5%), 1H BUY, High Vol, MACD flat but bullish market; mimics WON AERO TIER 2 momentum with BTC +1.68% stable, avoids LOST TIER 1/2 high-momentum chases."
+  }
+}
